@@ -8,7 +8,7 @@ from llama_index.core import VectorStoreIndex, SimpleDirectoryReader, Settings, 
 
 st.set_page_config(page_title="Chat with the Streamlit docs, powered by LlamaIndex", page_icon="🦙", layout="centered", initial_sidebar_state="auto", menu_items=None)
 
-openai.api_key = st.secrets[OPEN_API_KEY]
+openai.api_key = st.secrets["OPEN_API_KEY"]
 # st.logo("image001.png")
 st.title("Chat with the Orion's AI Agent")
 st.info("This agent has knowledge about information on this website and about Orion")
