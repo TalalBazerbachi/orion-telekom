@@ -1,0 +1,57 @@
+8. Temporary suspension/restriction of services
+
+8.1. Orion eM may temporarily limit or suspend the provision of services:
+
+during the necessary maintenance and improvement of services within the Orion eMobility Service,
+
+if he is technically or legally unable to provide services due to failure, malfunction, natural or other disaster or for similar reasons,
+
+if the User has not settled his obligations towards Orion eM,
+
+if the User violates the terms of the license for using the eMobility application,
+
+if the User does not use the services for his own needs in accordance with these General Terms and Conditions,
+
+in case there is a suspicion of misuse or illegal action by the User,
+
+in the event that the User attempts or succeeds in bypassing the security systems of the Orion eM network and/or accesses various data for which access and/or processing is not authorized,
+
+if the User causes various technical and other disturbances,
+
+in order to ensure a managed electricity distribution network, due to the needs of balancing the power system, raising the quality of electricity supply and as a result of other similar cases that are not within the competence of Orion eM,
+
+if it is required by official regulations or court orders and/or if it is suspected that the charging service is being used without permission, contrary to the terms and rules of these General Terms and Conditions, Agreements, Contracts
+
+if Users otherwise behave illegally or inappropriately in relation to these General Terms, agreements reached, contracts concluded or similar,
+
+to prevent abuses in the use of services described in these General Terms and Conditions as well as in other justified cases.
+
+8.2. Orion eM will, if it is possible in the specific situation, inform the Users by e-mail or in another way that it considers adequate about the reason for the interruption of the charging service and the time of the interruption of the charging service.
+
+8.3. Orion eM will make sure that restrictions or interruptions or suspension of service provision last for the shortest possible time, taking into account the reasons for the interruptions themselves as well as the technical and other possibilities of Orion eM to eliminate the cause of the interruption.
+
+8.4. The user is obliged to use the electric car charging service, the Orion eM chargers themselves as well as all available services of the eMobility application exclusively in accordance with their purpose and to refrain from any actions that could endanger their normal operation. The user is obliged to refrain from any action that could be classified as intentional abuse as well as the execution of fraudulent actions and undertakes not to use or attempt to use someone else’s user account and/or access someone else’s personal data. User agrees not to use reverse engineering, reverse assembly, disassembly, decoding or any other means to discover the source code of the platform and application or any related technology. All costs incurred due to misuse are borne by the User.
+
+8.5. Orion eM will not bear any responsibility for any potential damage caused by unauthorized use of the device on which the eMobility application is installed or unauthorized access to personalized user data stored within the application. Password protection of the eMobility application is enabled and included in the settings, and entering the password enables access to the part of the application intended for charging for used services. The code is defined by the end user himself during the installation of the application and he is responsible for its storage and confirms that he is aware of the fact that Orion eM is not aware of, nor does it store data on defined codes.
+
+8.6. In the event that one of the Users violates the provisions of these General Terms and Conditions, the provisions of the concluded contract, given instructions or valid regulations in such a way that the violation represents an immediate and serious threat to public order, public safety or public health or may cause serious economic or operational problems, Orion eM may , immediately, without prior notice and without leaving a deadline for remedying the error, limit or suspend the provision of services to the User, terminate the concluded contract and generally suspend cooperation with that User.
+
+8.7. If the service is interrupted due to reasons caused by one of the Users, Orion eM can limit or completely disable access to the charging infrastructure or all services within the Orion eMobility Service at the User’s expense. Users will not be released from payment or other obligations towards Orion eM. In addition, Orion eM is entitled to charge a reasonable fee for sending a written or electronic notice of termination, including any other foreseeable costs.
+
+8.8. By accepting these General Terms and Conditions, Users fully release Orion eM from any responsibility for any damage that may occur by using any service within the Orion eMobility Service.
+
+9. Payment
+
+9.1. For the use of services within the Orion eMbility Service, Users are charged amounts according to the price list of services valid at that particular moment, as well as in accordance with the Offer given by Orion eM to a specific Partner and/or Client. Fees for services that are valid at all times are defined in more detail on the Orion eM website as well as within the eMobility application itself for each individual charging point, i.e. for each individual charger in the Orion eM network.
+
+9.2. When it comes to the service of selling Orion eM chargers to Orion eM Partners or Clients, payment for them will be made in accordance with the concluded contract, given in the Offer, that is, in accordance with the agreement reached by Orion eM and the Partner or Client.
+
+9.3. When it comes to the electric vehicle charging service, by successfully completing the user account registration and starting to use the charging service, the user agrees to all the conditions and payment procedure for the service. From the first use of the charging service, each end user confirms that he is properly familiar with the provisions of these General Terms and Conditions and the price list of services, that is, that he agrees with the charging price at the charging points where he will use the specified service.
+
+9.4. The use of the electric vehicle charging service is, as a rule, charged by deducting from the user account of the end user the amount corresponding to the completed individual charging session at the specific Orion eM charger. If the user decides to deposit certain funds into his user account (top up option), he can exclusively use those funds for future individual charging sessions, without a time limit, but also without the right to a refund/return of the funds paid. After each individual use of the Orion eM charger, the end user expressly agrees that Orion eM will provide him with an electronic fiscal invoice via e-mail, and will also provide him with a monthly statement for the use of charging services at the end of each month, whereby the specified the statement should contain a view of each individual charging session that was carried out during that month. The electronic fiscal bill is also displayed in the eMobility application upon completion of an individual electric vehicle charging session.
+
+9.5. The end User can also enable payment for charging services through automatic debiting of his card, in which case the User’s payment card will automatically be debited for the amount corresponding to the performed charging session.
+
+9.6. Charging can also be done via RFID cards that the end user can purchase from Orion eM.
+
+9.7. The charging service cannot be paid for in cash.

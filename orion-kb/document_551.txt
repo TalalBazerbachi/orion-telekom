@@ -1,0 +1,53 @@
+2. Instalacija Orion eMobility aplikacije, registracija korisnika
+
+2.1. Usluge u okviru Orion eMobility Servisa koje su namenjene krajnjim korisnicima (kao što je usluga punjenja električnih automobila/vozila, naplata ove usluge i slično) ova lica mogu koristiti putem eMobility aplikacije. Registracija krajnjih korisnika se vrši preko navedene aplikacije. Unošenjem svih traženih podataka i na kraju davanjem saglasnosti krajnjeg korisnika sa ovim Opštim uslovima, zaključuje se pretplatnički odnos između krajnjeng korisnika i Orion eM i ujedno se kreira nalog ovih korisnika u cilju korišćenja svih raspoloživih usluga u okviru Orion eMobility Servisa.
+
+2.2. Pretplatnički odnos se zaključuje na neodređeni period vremena. Korišćenje usluga je moguće jedino nakon aktivacije naloga krajnjeg korisnika. Pretplatnički odnos zaključuje se putem eMobility aplikacije i nikakvi usmeni dogovori i slično nisu važeći. Sve izmene u vezi sa korišćenjem same aplikacije moguće su samo na aktivnim nalozima krajnjih korisnika.
+
+2.3. Prilikom same registracije, neophodno je i da se krajnji korisnik saglasi i sa obradom podataka o ličnosti koje unosi u samu aplikaciju, a koja obrada se vrši u skladu sa Zakonom o obradi podataka o ličnosti kao i Politikom privatnosti objavljenom na web starnici Orion eM. U slučaju da korisnik želi da prima personalizovane i ostale marketinške ponude, o prihvatanjem ovih Opštih uslova istovremeno daje svoju posebnu saglasnost za obradu podataka potrebnih za ove svrhe. Za kreiranje personalizovanih ponuda, a radi prilagođavanja ponuda krajnjem korisniku, Orion eM je ovlašćen da pristupi bazi sa svim transakcijama korisnika.
+
+2.4. Informacije koje korisnik pruži prilikom registracije i kreiranja svog korisničkog naloga moraju da budu istinite, tačne i potpune, te korisnik garantuje za tačnost podataka koje je direktno dostavio, odnosno uneo u samu aplikaciju. Korišćenje eMobility aplikacije je dozvoljeno licima koja imaju navršenih 18 ili više godina.
+
+2.5. Krajnji korisnik je u obavezi da u slučaju da dođe do promene u njegovim ličnim podacima, nastale promene odmah unese u svoj korisnički nalog. Ako korisnik ne unese potrebne promene, Orion eM može privremeno da spreči korišćenje usluga. Sva finansijska i pravna opterećenja proistekla iz neblagovreme izmene ličnih podataka će ići na teret korisnika. Ako korisnik ne obavesti Orion eM o promeni ličnih podataka, smatraće se da su fakture i sve ostale poruke koje su poslate korisniku na registrovane adrese date u trenutku registracije njegovog korisničkog naloga, primljene.
+
+2.6. Korisnik potvrđuje da aplikaciju koristi isključivo na sopstvenu odgovornost, i nepozivo je saglasan da Orion eM ne daje bilo kakve garancije niti preuzima odgovornost za bilo koje eventualne štete koje korisnik pretrpi prilikom korišćenja aplikacije i interneta. Korisnik oslobađa bilo kakve odgovornosti Orion eM za garantovanje dostupnosti interneta s obzirom na to da Orion eM nema nad tim bilo kakvu kontrolu.
+
+2.7. Preuzimanjem i instalacijom aplikacije, korisnik prihvata sve rizike koji mogu nastati iz njenog korišćenja, i obavezuje se da sadržaj aplikacije koristi isključivo za ličnu upotrebu i na sopstvenu odgovornost. Korisnik se obavezuje da će učiniti sve što je u njegovoj moći da bilo koje treće lice ne dođe u posed uređaja na kome je aplikacija instalirana, kao i da nikome neće omogućiti neovlašćeno upoznavanje sa njegovim ličnim nalogom na eMobility aplikaciji. Ukoliko krajnji korisnik i stvarni korisnik usluga nisu isto lice, krajnji korisnik je direktno odgovoran prema Orion eM za postupke stvarnog korisnika.
+
+3. Autorska prava
+
+3.1. Dokumenti, podaci i informacije objavljeni na aplikaciji mogu da se koriste samo za individualne potrebe korisnika uz poštovanje svih autorskih i vlasničkih prava kao i prava trećih lica. Dokumenti, podaci i informacije objavljene na eMobility aplikaciji ne smeju se reprodukovati, distribuirati ili koristiti u komercijalne svrhe niti se može koristiti na bilo koji način koji može uzrokovati štetu Orion eM ili bilo kojoj trećoj strani.
+
+3.2. Korisnik ne stiče nikakva autorska prava ili prava intelektualne svojine na sadržaj ponuđen korisnicima od strane Orion eM. Vlasnici autorskih prava, zaštitnih znakova i ostalih prava intelektualne svojine na licenci, odnosno eMobility aplikaciji jeste Orion eM.
+
+3.3. Ako je klijentu, Partneru i/ili krajnjem korisniku omogućeno da koriste softver, odnosno eMobility aplikaciju u cilju korišćenja pojedinačnih usluga u okviru Orion eMobility Servisa, navedenih u ovim Opštim uslovima, ova lica imaju pravo i obavezu da koriste navedeni softver/aplikaciju u skladu sa uslovima date licence. U slučaju da Orion eM ugovori posebne uslove licence za korišćenje softvera, odnosno eMobility aplikacije, specijalni uslovi licence će imati prednost nad onima utvrđenim u ovim Opštim uslovima.
+
+3.4. Orion eM daje Partnerima, klijentima i/ili krajnjim korisnicima ne-ekskluzivnu licencu da koriste eMobility aplikaciju. Bilo koji korisnik eMobility aplikacije je saglasan da neće koristiti obrnuti inženjering, povratnu montažu, rastavljanje, dekodiranje ili bilo koji drugi način za otkrivanje izvornog koda eMobility aplikacije ili bilo koje povezane tehnologije. eMobility aplikacija ne sme da se distribuira, prodaje ili daje u podlicencu. Korisnik ne sme preneti dobijenu licencu trećem licu.
+
+3.5. Svako korišćenje koje krši uslove licence za korišćenje eMobility aplikacije, jeste osnov za naknadu prouzrokovane štete i istovremeno osnov za uskraćivanje date licence.
+
+3.6. Korisnik može da otkaže licencu u bilo kom trenutku, brisanjem eMobility aplikacije sa svog uređaja. Licenca za korišćenje aplikacije i pravo korisnika na korišćenje usluga koje nudi sama eMobility apliacija, ukidaju se automatski i bez najave ukoliko korisnik prekrši bilo koju odredbu koja se odnosi na njihovo korišćenje. Osim ukoliko je izričito navedeno drugačije, licenca se automatski ukida ukoliko korisnik izgubi pravo da koristi usluge za koje je dobio licencu.
+
+3.7. Licenca i sama eMobility aplikacija koja se može koristiti ustupanjem licence se obezbeđuju takvi kakvi jesu, bez bilo kakvih garancija ili jemstava. Orion eM isključuje, u punom obimu koji dozvoljava zakon, sve garancije, uključujući garanciju da isti nemaju defekata, da su pogodni za prodaju, da imaju zadovoljavajući kvalitet ili da su pogodni za konkretnu svrhu.
+
+3.8. Orion eM nije odgovoran za bilo kakvu štetu koju pretrpi bilo koji korisnik samim korišćenjem licence, eMobility aplikacije i usluga u okviru iste, te korisnik u potpunosti oslobađa odgovornosti Orion eM za bilo koje posledice koje nastanu radnjama ili propuštanjem radnji korisnika koje potiču od upotrebe ili zloupotrebe sadržaja eMobility aplikacije, kao i za bilo kakvu štetu koja može biti prouzrokovana korisniku ili bilo kojoj trećoj strani u vezi s upotrebom ili zloupotrebom korišćenja sadržaja aplikacije.
+
+4. Korišćenje eMobility aplikacije
+
+4.1. eMobility aplikacija registrovanim korisnicima, odnosno korisnicima koji su zasnovali pretplatnički odnos sa Orion eM, omogućava sledeće:
+
+pristup uputstvu za korišćenje/podešavanje eMobility aplikacije uz saglasnost za pristup i korišćenje servisa mobilnih uređaja,
+
+korišćenje i plaćanje usluge punjenja električnog vozila na Orion eM punjačima u okviru Orion eMobility Servisa,
+
+korišćenje interaktivne mape koja prikazuje mrežu Orion eM punjača u okviru Orion eMobility Servisa kao i prikaz trenutno raspoloživih punjača,
+
+mogućnost rezervacije određenog punjača,
+
+definisanje i upravljanje šifrom za pristup delu eMobility aplikacije za plaćanje usluge punjenja,
+
+slanje obaveštenja o korišćenim uslugama na registrovanu e-mail adresu korisnika i pregled svih transakcija,
+
+pristup svim podacima njihovog korisničkog naloga, i istoriji svih transkacija punjenja električnog vozila,
+
+pregled i izmenu ličnih podataka registrovanih korisnika,

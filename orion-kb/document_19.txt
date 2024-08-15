@@ -1,0 +1,231 @@
+Pozovite nas: 011 4100 200
+
+Privatni korisnici
+
+Početna
+
+Optički paketi
+
+Single Net
+
+Dual TV
+
+Triple
+
+PREMIUM paketi
+
+TV
+
+Fiksni
+
+Hosting
+
+Cloud Gaming
+
+Poslovni korisnici
+
+eMobility
+
+eFiskal
+
+eFaktura
+
+Antivirus
+
+Clean Pipe
+
+Data Centar
+
+Biznis Gigant paketi
+
+Internet
+
+SD-WAN
+
+Enterprise WiFi
+
+Fiksna Telefonija
+
+Online shop
+
+Hosting
+
+Kontakt
+
+Moj Orion
+
+O nama
+
+Vesti
+
+Podrška
+
+Privatni korisnici
+
+Poslovni Korisnici
+
+Moj Orion
+
+O nama
+
+Vesti
+
+Podrška
+
+English
+
+Savet za korisnike Linux VPS servera sa cPanel licencom
+
+Savet za korisnike Linux VPS servera sa cPanel licencom
+
+15.06.2019
+
+Objavljeno u 14:54h in Obaveštenja
+
+Share
+
+Poštovani,
+
+Primili smo informaciju od strane cPanel-a o Exim explit-u zbog čega je potrebno da korisnici izvrše hitan update cPanel-a kako bi se zaštitili od potencijalnog napada.
+
+Hosting tim Orion telekoma redovno prati liste bezbednosnih propusta i na vreme primenjuje najnovije dostupne patch-eve. Nakon pojave ove nove opasnosti, naši web hosting serveri su patch-ovani i zastićeni i povećan je monitoring naših servisa.
+
+Ovom prilikom posebno se obraćamo korisnicima koji sami održavaju svoje VPS – Linux OS servere sa cPanel licencom.
+
+U nastavku je obaveštenje koje smo primili od cPanel-a:
+
+——————————————————————————-
+
+Hello,
+
+We want to provide you with information regarding an Exim exploit that NIST has posted about today:
+
+https://nvd.nist.gov/vuln/detail/CVE-2019-10149 (https://t.e2ma.net/click/y7pf68/q9d5s5/65xu8kj)
+
+This Exim exploit could affect any servers running cPanel & WHM versions below our latest LTS version which, as of this email is, v78.0.27. For more information about this Exim exploit, please see the link above.
+
+We recommend that you update any servers below cPanel & WHM v78.0.27, promptly, to ensure that you’ve received the latest system updates.
+
+To update your server manually, right away, please use the WebHost Manager interface:
+
+WHM >> Home >> cPanel >> Upgrade to Latest Version
+
+We’ve added more in-depth details about this Exim exploit and explain how you can protect yourself, in a blog post on our website, here:
+
+https://blog.cpanel.com/exim-cve-2019-10149-protect-yourself/ (https://t.e2ma.net/click/y7pf68/q9d5s5/2qzu8kj)
+
+Thank you
+
+——————————————————————————-
+
+Napomena: Orion telekom ne odgovara za administriranje korisničkih VPS servera, ali profesionalni pristup nas obavezuje da podelimo sa vama važne informacije koje Vam mogu pomoći u cilju zaštite vašeg Linux VPS servera.
+
+Molimo Vas da ovo obaveštenje odmah prosledite administratoru Vašeg VPS servera (tehničkom licu koje održava server), kako bi izvršio sve potrebne provere i obezbedio zaštitu servera.
+
+Vaš Orion telekom
+
+Kategorije
+
+Najava radova
+
+Obaveštenja
+
+Vesti
+
+Poslednje Vesti
+
+6 novih kanala za sve korisnike Orion TV platforme! 01/08/2024
+
+Obaveštenje o promeni cena za poslovne korisnike 30/06/2024
+
+Obaveštenje za korisnike Orion televizije 25/06/2024
+
+Najava radova na unapređenju IPTV platforme 06/06/2024
+
+OBAVEŠTENJE O PROMENI CENA USLUGA ZA REZIDENCIJALNE KORISNIKE 01/06/2024
+
+Privatni Korisnici
+
+Optički paketi
+
+Prepaid Optički Internet
+
+HIT ADSL akcija: Ostani slobodan!
+
+PREMIUM Optički paketi
+
+Televizija
+
+Fiksna Telefonija
+
+Boosteroid Gaming platforma
+
+Hosting
+
+Poslovni Korisnici
+
+eMobility
+
+eFiskal
+
+eFaktura
+
+Antivirus
+
+Clean Pipe
+
+Data Centar
+
+Internet
+
+SD-WAN
+
+Enterprise WiFi
+
+Fiksna telefonija
+
+Online shop
+
+Hosting
+
+Biznis Gigant paketi
+
+Podrška
+
+Korisnički servis
+
+eRačun
+
+Upis u registar “Ne zovi”
+
+Online prodavnica
+
+Prodajna i uplatna mesta
+
+Uputstva
+
+Drajveri
+
+Orion telekom
+
+O nama
+
+Opšti uslovi i cenovnici
+
+Pravilnik o zaštiti ličnih podataka
+
+Parametri kvaliteta
+
+Vesti
+
+Karijera
+
+Kontakt
+
+Postani naš korisnik
+
+Postani naš prodajni partner
+
+ORION TELEKOM DOO BEOGRAD Naselje Zemun Polje Mala Pruga 8 11080 Beograd-Zemun
+
+Copyright © 2024. ORION TELEKOM DOO BEOGRAD

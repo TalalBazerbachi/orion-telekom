@@ -1,0 +1,71 @@
+5.6. Users are responsible for damage caused by Orion eM or any third party due to damage and/or failure of the Orion eM charger that occurred due to non-compliance with the given instructions, carelessness or negligence of said persons.
+
+5.7. Users are obliged that if they notice any malfunction or problem when using the Orion eM charger, they will immediately act according to the instructions that are clearly displayed at the charging point or on the chargers, and to notify Orion eM immediately.
+
+5.8. Orion eM is not responsible for the stability of the power system. In the event of a grid failure, the company responsible for the power system must without delay either increase the production of electricity from other sources or reduce consumption. Charging points can be automatically ordered to reduce charging power in the event of a network failure. Interruption of charging is usually short-lived, and it can manifest itself through a change in the charging speed or an interruption of charging of the electric vehicle, that is, through the return of energy from the battery of the electric vehicle to the grid in the case of V2G systems.
+
+6. Use of the Orion eM chargers via RFID card
+
+6.1. Using the electric vehicle charging service at Orion eM chargers, as well as charging for the aforementioned service, can be done via RFID cards. Orion eM can provide the mentioned RFID cards in the agreed number to Partners as well as clients, in accordance with mutual agreement. At the same time, end users can purchase a suitable RFID card from Partners and clients, based on which they will be able to use the available chargers.
+
+6.2. The partner/client/end user is fully responsible for the storage/use of the RFID card, as well as for all actions performed with the RFID card within the limits of access rights during its validity.
+
+6.3. The partner/client as well as the end user are obliged to immediately inform Orion eM in case of loss of the RFID card, in which case the card will be cancelled. In case of loss, a new RFID card can be issued at the price specified in the Orion eM price list.
+
+7. Rights and obligations in connection with the use of the Orion eMobility Service
+
+7.1. Users are obliged to use all services within the Orion eMobility Service in accordance with these General Terms and Conditions, given instructions, valid legal regulations governing the specific matter as well as other agreements with Orion eM.
+
+7.2. Users are obliged to:
+
+to refrain from any action or interference with the technological infrastructure or charging infrastructure of Orion eM that could lead to its failure or damage its integrity,
+
+to refrain from harmful effects on technological or charging infrastructure, processes and data,
+
+to notify Orion eM without delay of any disruptions, interruptions or damage to charging points, i.e. chargers within the Orion eM network, which they observe or are informed about while using the services,
+
+to compensate for all the damage they cause at any charging point, i.e. any charger within the Orion eM network due to improper, careless use or behavior contrary to the given instructions,
+
+to charge their electric vehicle at charging points, i.e. via electric vehicle chargers for a maximum duration of 120 minutes and to leave the charging point without undue delay after charging,
+
+to use the charging infrastructure in a way that does not limit the rights of other users,
+
+to follow the instructions and guidelines before, during and after using the charger for electric vehicles.
+
+7.3. For any unfounded request by any user for remote activation of charging through the e-Mobility application (unjustified remotely activated charging), the same will be charged a fee in accordance with the valid price list. A request for remote charging activation is considered unfounded if the charging service has failed for reasons attributable to the user.
+
+7.4. Improper use can shorten the life of the entire charging infrastructure. If the user of the electric vehicle charging service interrupts charging more than three times in a row or does so more often (and more than three times in one month) by interrupting or pressing the emergency exit button, even if the user alternately uses several different user accounts, the user will be charged a fee in accordance with the applicable price list or may be denied further use of the charging services.
+
+7.5 Partners and Clients of Orion eM are obliged to provide infrastructure conditions and all rights for installation, i.e. installation and operation of Orion eM chargers, as well as to provide technical conditions for their successful installation and correct operation before installation, to provide appropriate equipment as well as other necessary conditions for their proper functioning at the required locations, to allow authorized persons of Orion eM access to the chargers for the installation of software and other content required for their smooth operation, to enable the public use of the chargers as well as to perform an administrative level of support and in this sense to provide end users with all the necessary information in connection with Orion eMobility services.
+
+8. Temporary suspension/restriction of services
+
+8.1. Orion eM may temporarily limit or suspend the provision of services:
+
+during the necessary maintenance and improvement of services within the Orion eMobility Service,
+
+if he is technically or legally unable to provide services due to failure, malfunction, natural or other disaster or for similar reasons,
+
+if the User has not settled his obligations towards Orion eM,
+
+if the User violates the terms of the license for using the eMobility application,
+
+if the User does not use the services for his own needs in accordance with these General Terms and Conditions,
+
+in case there is a suspicion of misuse or illegal action by the User,
+
+in the event that the User attempts or succeeds in bypassing the security systems of the Orion eM network and/or accesses various data for which access and/or processing is not authorized,
+
+if the User causes various technical and other disturbances,
+
+in order to ensure a managed electricity distribution network, due to the needs of balancing the power system, raising the quality of electricity supply and as a result of other similar cases that are not within the competence of Orion eM,
+
+if it is required by official regulations or court orders and/or if it is suspected that the charging service is being used without permission, contrary to the terms and rules of these General Terms and Conditions, Agreements, Contracts
+
+if Users otherwise behave illegally or inappropriately in relation to these General Terms, agreements reached, contracts concluded or similar,
+
+to prevent abuses in the use of services described in these General Terms and Conditions as well as in other justified cases.
+
+8.2. Orion eM will, if it is possible in the specific situation, inform the Users by e-mail or in another way that it considers adequate about the reason for the interruption of the charging service and the time of the interruption of the charging service.
+
+8.3. Orion eM will make sure that restrictions or interruptions or suspension of service provision last for the shortest possible time, taking into account the reasons for the interruptions themselves as well as the technical and other possibilities of Orion eM to eliminate the cause of the interruption.

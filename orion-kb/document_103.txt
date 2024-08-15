@@ -1,0 +1,53 @@
+7.5 Partneri i Klijenti Orion eM dužni su da obezbede infrastrukturne uslove i sva prava za postavljanje, odnosno instalaciju i rad Orion eM punjača kao i da pre instalacije obezbedi tehničke uslove za njihovo uspešno instaliranje i ispravan rad, da obezbedi odgovarajuću opremu kao i druge uslove potrebne za njihovo ispravno funkcionisanje na traženim lokacijama, da omogući nadležnim licima Orion eM pristup punjačima za instalaciju softvera i drugih sadržaja potrebnih za njihov nesmetan, da omogući javno korišćenje punjača kao i da vrše administrativni nivo podrške i da u tom smislu krajnjim korisnicima pružaju sve neophodne informacije u vezi sa Orion eMobility servisima.
+
+8. Privremena obustava/ograničenje korišćenja usluga
+
+8.1. Orion eM može privremeno ograničiti ili obustaviti pružanje usluga:
+
+tokom trajanja neophodnih radova na održavanju i unapređenju usluga u okviru Orion eMobility Servisa,
+
+ukoliko je zbog kvara, neispravnosti, prirodne ili druge nepogode ili iz sličnih razloga tehnički ili pravno onemogućen da pruža usluge,
+
+ukoliko Korisnik nije izmirio svoje obaveze prema Orion eM,
+
+ukoliko Korisnik krši uslove date licence za korišćenje eMobility aplikacije,
+
+ukoliko Korisnik ne koristi usluge za sopstvene potrebe u skladu sa ovim Opštim uslovima,
+
+u slučaju da postoji sumnja na zloupotrebu ili nezakonitu radnju od strane Korisnika,
+
+u slučaju da Korisnik pokuša ili uspe u zaobilaženju bezbednosnih sistema Orion eM mreže i/ili pristupi različitim podacima za čiji pristup i/ili onradu nema ovlašćenje,
+
+ukoliko Korisnik izazove različite tehničke ii druge smetnje,
+
+kako bi se obezbedilo upravljane elektro distributivnom mrežom, radi potreba balansiranja elektroenergetskog sistema, podizanja kvaliteta snabdevanja električnom energijom i kao i usled drugih sličnih slučajeva koji nisu u nadležnosti Orion eM,
+
+ukoliko to zahtevaju zvanični propisi ili sudski nalozi i/ili ako se sumnja da se usluga punjenja koristi bez dozvole, nasuprot uslovima i pravilima iz ovih Opštih uslova, sporazuma, ugovora
+
+ako se Korisnici na drugi način nezakonito ili neadekvatno ponašaju u odnosu na ove Opšte uslove, postignute sporazume, zaključene ugovore ili slično,
+
+da bi se sprečile zloupotrebe u korišćenju usluga opisanih u ovim Opštim uslovima kao i u drugim opravdanim slučajevima
+
+8.2. Orion eM će, ukoliko je to u konkretnoj stuaciji moguće, obavestiti Korisnike putem elektronske pošte ili na drugi način koji smatra adekvatnim o razlogu prekida usluge punjenja i vremenu prekida pružanja usluge punjenja.
+
+8.3. Orion eM će se pobrinuti da ograničenja ili prekidi odnosno obustava pružanja usluga traju najkraće moguće vreme, uzimajući u obzir razloge samih prekida kao i tehničke i druge mogućnosti Orion eM da otkloni uzrok prekida.
+
+8.4. Korisnik se obavezuje da uslugu punjenja električnog automobila, sami Orion eM punjači kao i sve dostupne servise eMobility aplikacije koristi isključivo u skladu sa njihovom namenom kao i da se uzdržava od bilo kakvih radnji kojima bi se mogao ugroziti njihov normalan rad. Korisnik se obavezuje da će se uzdržavati od bilo koje radnje koja bi se mogla podvesti pod namernu zloupotrebu kao i na izvršenje prevarnih radnji i obavezuje se da neće koristiti ili pokušati da koristi tuđi korisnički nalog i/ili pristupati tuđim ličnim podacima. Korisnik je saglasan da neće koristiti obrnuti inženjering, povratnu montažu, rastavljanje, dekodiranje ili bilo koji drugi način za otkrivanje izvornog koda aplikacije ili bilo koje povezane tehnologije. Sve troškove nastale zbog pričinjenih zloupotreba snosi Korisnik.
+
+8.5. Orion eM neće snositi bilo kakvu odgovornost za bilo koju eventualnu štetu nastalu neovlašćenim korišćenjem uređaja na kome je instalirana eMobility aplikacija ili neovlašćenim pristupom personalizovanim podacima korisnika koji su sačuvani u okviru aplikacije. Zaštita eMobility aplikacije šifrom je omogućena i sadržana u podešavanjima, a unos šifre omogućava pristup delu aplikacije namenjenom naplati korišćenih usluga. Šifru definiše sam krajnji korisnik prilikom instalacije aplikacije i on je odgovoran je za njeno čuvanje i potvrđuje da je upoznat sa činjenicom da Orion eM nije upoznat, niti čuva podatke o definisanim šiframa.
+
+8.6. U slučaju da neki od Korisnika prekrši odredbe ovih Opštih uslova, odredbe zaključenog ugovora, data uputstva ili važeće propise na način da kršenje predstavlja neposrednu i ozbiljnu pretnju javnom redu, javnoj bezbednosti ili javnom zdravlju ili može izazvati ozbiljne ekonomske ili operativne probleme, Orion eM može, odmah, bez prethodne najave i bez ostavljanja roka za otklanjanje propusta, ograničiti ili obustaviti pružanje usluga Korisniku, raskinuti zaključeni ugovor i generalno obustaviti saradnju sa tim Korisnikom.
+
+8.7. Ako je prekinuta usluga zbog razloga koji je prouzrokovao neki od Korisnika, Orion eM može o trošku Korisnika da ograniči ili u potpunosti onemogući pristup infrastrukturi za punjenje ili svim uslugama u okviru Orion eMobility Servisa. Korisnici neće biti oslobođeni plaćanja ili drugih obaveza prema Orion eM. Pored toga, Orion eM ima pravo da naplati razumnu naknadu za slanje pisanog ili elektronskog obaveštenja o prekidu, uključujući i eventualne druge prourokovane troškove
+
+8.8. Prihvatanjem ovih Opštih uslova, Korisnici u potpunosti oslobađaju Orion eM bilo koje odgovornosti za štetu koja eventulano nastane korišćenjem bilo koje usluge u okviru Orion eMobility Servisa.
+
+9. Plaćanje
+
+9.1. Za korišćenje usluga u okviru Orion eMobility Servisa, Korisnicima se naplaćuju iznosi prema cenovniku usluga važećem u tom određenom trenutku kao i u skladu sa Ponudom koja je data od strane Orion eM određenom Partneru i/ili Klijentu. Naknade za usluge koje važe u svakom trenutku detaljnije su definisane na web adresi Orion eM kao i u okviru same eMobility aplikacije za svako pojedinačno mesto za punjenje, odnosno za svaki pojedinačni punjač u mreži Orion eM. PDV je uračunat u cenu i nema skrivenih troškova.
+
+9.2. Sva plaćanja biće izvršena u lokalnoj valuti Republike Srbije – dinar (RSD).Za informativni prikaz cena u drugim valutama koristi se srednji kurs Narodne Banke Srbije. Iznos za koji će biti zadužena Vaša platna kartica biće izražen u Vašoj lokalnoj valuti kroz konverziju u istu po kursu koji koriste kartičarske organizacije, a koji nama u trenutku transakcije ne može biti poznat. Kao rezultat ove konverzije postoji mogućnost neznatne razlike od originalne cene navedene na našem sajtu.
+
+9.3. Kada je u pitanju usluga prodaje Orion eM punjača Partnerima ili Klijentima Orion eM, plaćanje za iste vršiće se u skladu sa zaključenim ugovorom, datom Ponudom, odnosno u skladu sa dogovorom koji postignu Orion eM i Partner ili Klijent.
+
+9.4. Kada je u pitanju usluga punjenja električnog vozila, uspešnim izvršenjem registracije korisničkog naloga i otpočinjanjem korišćenja usluge punjenja, korisnik se saglašava sa svim uslovima i procedurom plaćanja usluge. Od prvog korišćenja usluge punjenja svaki krajnji korisnik potvrđuje da je uredno upoznat sa odredbama ovih Opštih uslova i cenovnikom usluga, odnosno da je saglasan sa cenom punjenja na mestima za punjenje na kojima će koristiti navedenu uslugu.

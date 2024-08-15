@@ -1,0 +1,67 @@
+3.5. Svako korišćenje koje krši uslove licence za korišćenje eMobility aplikacije, jeste osnov za naknadu prouzrokovane štete i istovremeno osnov za uskraćivanje date licence.
+
+3.6. Korisnik može da otkaže licencu u bilo kom trenutku, brisanjem eMobility aplikacije sa svog uređaja. Licenca za korišćenje aplikacije i pravo korisnika na korišćenje usluga koje nudi sama eMobility apliacija, ukidaju se automatski i bez najave ukoliko korisnik prekrši bilo koju odredbu koja se odnosi na njihovo korišćenje. Osim ukoliko je izričito navedeno drugačije, licenca se automatski ukida ukoliko korisnik izgubi pravo da koristi usluge za koje je dobio licencu.
+
+3.7. Licenca i sama eMobility aplikacija koja se može koristiti ustupanjem licence se obezbeđuju takvi kakvi jesu, bez bilo kakvih garancija ili jemstava. Orion eM isključuje, u punom obimu koji dozvoljava zakon, sve garancije, uključujući garanciju da isti nemaju defekata, da su pogodni za prodaju, da imaju zadovoljavajući kvalitet ili da su pogodni za konkretnu svrhu.
+
+3.8. Orion eM nije odgovoran za bilo kakvu štetu koju pretrpi bilo koji korisnik samim korišćenjem licence, eMobility aplikacije i usluga u okviru iste, te korisnik u potpunosti oslobađa odgovornosti Orion eM za bilo koje posledice koje nastanu radnjama ili propuštanjem radnji korisnika koje potiču od upotrebe ili zloupotrebe sadržaja eMobility aplikacije, kao i za bilo kakvu štetu koja može biti prouzrokovana korisniku ili bilo kojoj trećoj strani u vezi s upotrebom ili zloupotrebom korišćenja sadržaja aplikacije.
+
+4. Korišćenje eMobility aplikacije
+
+4.1. eMobility aplikacija registrovanim korisnicima, odnosno korisnicima koji su zasnovali pretplatnički odnos sa Orion eM, omogućava sledeće:
+
+pristup uputstvu za korišćenje/podešavanje eMobility aplikacije uz saglasnost za pristup i korišćenje servisa mobilnih uređaja,
+
+korišćenje i plaćanje usluge punjenja električnog vozila na Orion eM punjačima u okviru Orion eMobility Servisa,
+
+korišćenje interaktivne mape koja prikazuje mrežu Orion eM punjača u okviru Orion eMobility Servisa kao i prikaz trenutno raspoloživih punjača,
+
+mogućnost rezervacije određenog punjača,
+
+definisanje i upravljanje šifrom za pristup delu eMobility aplikacije za plaćanje usluge punjenja,
+
+slanje obaveštenja o korišćenim uslugama na registrovanu e-mail adresu korisnika i pregled svih transakcija,
+
+pristup svim podacima njihovog korisničkog naloga, i istoriji svih transkacija punjenja električnog vozila,
+
+pregled i izmenu ličnih podataka registrovanih korisnika,
+
+prikaz marketinških poruka i obaveštenja kao i prikaz i čuvanje personalizovanih marketinških ponuda,
+
+opciju brisanja naloga za slučaj prestanka korišćenja eMobility aplikacije
+
+4.2. Orion eM zadržava pravo ažuriranja i modifikacije aplikacije izmenom njenog sadržaja bez posebnog obaveštavanja korisnika, tako da neće biti odgovoran za moguće posledice proizašle iz takvih promena.
+
+5. Korišćenje Orion eM punjača
+
+5.1. Kako bi se sprečilo oštećenje, u slučaju postojanja opasnosti od oštećenja ili u slučaju već nastalog oštećenja, Partner, klijenti, krajnji korisnici (dalje: Korisnici) kao i Orion eM dužni su da preduzimaju sve mere da spreče ili ograniče oštećenje koje se mogu razumno tražiti i zahtevati od njih. Orion eM ne odgovara za bilo kakvu štetu proizašlu iz eventualnih skrivenih nedostataka, niti za štetu koja eventualno nastane usled eventualnog prestanka funkcionisanja ili gubitka svrsishodnosti funkcionisanja punjača za električna vozila.
+
+5.2. Klijenti Orion eM dužni su da obezbede infrastrukturne uslove i sva prava za postavljanje, odnosno instalaciju i rad Orion eM punjača kao i da pre instalacije obezbede tehničke uslove za njihovo uspešno instaliranje i ispravan rad, da obezbedi odgovarajuću opremu kao i druge uslove potrebne za njihovo ispravno funkcionisanje na traženim lokacijama, da omogući nadležnim licima Orion eM pristup punjačima za instalaciju softvera i drugih sadržaja potrebnih za njihov nesmetan rad, da omoguće javno korišćenje Orion eM punjača kao i da vrše administrativni nivo podrške i da u tom smislu krajnjim korisnicima pružaju sve neophodne informacije u vezi sa Orion eMobility servisima. Orion eM ne garantuje ispravan rad punjača u slučaju da klijent ne obezbedi tehničke uslove za njihovo uspešno instaliranje i ispravno funkcionisanje. Eventualne ponovne instalacije u slučaju da klijent ne obezbedi navedene uslove padaju na teret klijenta.
+
+5.3. Korisnik Orion eM punjača je obavezan da svu opremu i instalacije električnog vozila koje se puni održava u ispravnom stanju tako da u svakom trenutku ispunjavaju zahteve utvrđene propisima i uputstvima proizvođača. Tehnički zahtevi za korišćenje mesta za punjenje, odnosno punjača za električna vozila, nalaze se na web stranici Orion eM, kao i na mestima za punjenje i Korisnik je obavezan na njihovo puno poštovanje.
+
+5.4. Prilikom korišćenja Orion eM punjača, svaki korisnik je obavezan da se pažljivo pridržava uputstava za upotrebu istih. Uputstva su vidno istaknuta na svakoj Orion eM punjaču zasebno, kao i na mestima za punjenje.
+
+5.5. Korisnici su u potpunosti odgovorni Orion eM i svim trećim licima za bilo koju posledicu ili štetu koja bude prouzrokovana ili koja nastane zbog neispunjavanja ugovorenih zahteva iz ovog odeljka 5. i obavezuju se da će štetu u celosti naknaditi zajedno sa svim nastalim troškovima.
+
+5.6. Korisnici su odgovorni za štetu koja nastane na strani Orion eM ili bilo kog trećeg lica zbog oštećenja i/ili kvara Orion eM punjača do koga je došlo usled nepoštovanja datih uputstava, nepažnjom ili nemarom navedenih lica.
+
+5.7. Korisnici se obavezuju da ukoliko primete bilo kakvu neispravnost ili problem prilikom korišćenja Orion eM punjača bez odlaganja postupe u svemu prema uputstvima koja su vidno istaknuta na mestu za punjenje odnosno na punjačima i da o tome odmah obavesti Orion eM.
+
+5.8. Orion eM nije odgovoran za stabilnost elektroenergetskog sistema. U slučaju pada mreže, kompanija koja je odgovorna za elektroenergetski sistem mora bez odlaganja ili da poveća proizvodnju električne energije iz drugih izvora ili da smanji potrošnju. Mestima za punjenje može se automatski izdati naredba za smanjenje snage punjenje u slučaju pada mreže. Prekid punjenja obično je kratkotrajan, a može se manifestovati kroz promenu brzine punjenja ili prekida punjenja električnog vozila, odnosno putem vraćanja energije iz baterije električnog vozila u mrežu u slučaju V2G sistema.
+
+6. Korišćenje Orion eM punjača putem RFID kartice
+
+6.1. Korišćenje usluge punjenja električnih vozila na Orion eM punjačima kao i naplata navedene usluge može se vršiti putem RFID kartica. Navedene RFID kartice Orion eM može u dogovorenom broju obezbediti Partnerima kao i klijentima, u skladu sa međusobnim dogovorom. Istovremeno, krajnji korisnici od Partnera i klijentata mogu kupiti odgovarajuću RFID karticu na osnovu koje će moći da koriste raspoložive punjače.
+
+6.2. Partner/klijent/ krajnji korisnik su u potpunosti odgovorni za čuvanje/korišćenje RFID kartice, kao i za sve radnje izvršene sa RFID karticom u granicama prava pristupa tokom važenja iste.
+
+6.3. Partner/klijent kao i krajnji korisnik dužni su da odmah obaveste Orion eM u slučaju gubitka RFID kartice, u kom slučaju će kartica biti poništena. U slučaju gubitka, može biti izdata nova RFID kartica po ceni navedenoj u cenovniku Orion eM.
+
+7. Prava i obaveze u vezi sa korišćenjem Orion eMobility Servisa
+
+7.1. Korisnici su u obavezi da koriste sve usluge u okviru Orion eMobility Servisa u skladu sa ovim Opštim uslovima, datim uputstvima, važećim zakonskim propisima koji uređuju konkretnu materiju kao i drugim sporazumima sa Orion eM.
+
+7.2. Korisnici su u obavezi:
+
+da se suzdrže se od bilo kakve radnje ili mešanja u tehnološku infrastrukturu ili infrastrukturu za punjenje Orion eM koja bi mogla da dovede do njenog kvara ili narušavanja njenog integriteta,

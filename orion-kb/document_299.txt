@@ -1,0 +1,225 @@
+Pozovite nas: 011 4100 200
+
+Privatni korisnici
+
+Početna
+
+Optički paketi
+
+Single Net
+
+Dual TV
+
+Triple
+
+PREMIUM paketi
+
+TV
+
+Fiksni
+
+Hosting
+
+Cloud Gaming
+
+Poslovni korisnici
+
+eMobility
+
+eFiskal
+
+eFaktura
+
+Antivirus
+
+Clean Pipe
+
+Data Centar
+
+Biznis Gigant paketi
+
+Internet
+
+SD-WAN
+
+Enterprise WiFi
+
+Fiksna Telefonija
+
+Online shop
+
+Hosting
+
+Kontakt
+
+Moj Orion
+
+O nama
+
+Vesti
+
+Podrška
+
+Privatni korisnici
+
+Poslovni Korisnici
+
+Moj Orion
+
+O nama
+
+Vesti
+
+Podrška
+
+English
+
+Orion telekom Clean Pipe servis
+
+Orion telekom Clean Pipe (OCP) servis je namenjen malim i srednjim preduzećima, koja nemaju svoje sisteme zaštite.
+
+SAZNAJTE VIŠE
+
+Jedan od najjeftinijih i najlakših načina da maliciozni akteri dobiju pristup vašoj mreži je kroz korisnike koji pristupaju internetu. Uspešnom kompromitacijom računara korisnika, maliciozni akter dobija pristup vašoj infrastrukturi, kroz koju može da se kreće ka svom krajnjem cilju, bilo da je to krađa podataka, rušenje vaše infrastrukture ili bilo koja druga maliciozna aktivnost.
+
+Da biste zaštitili svoju mrežu od cyber napada i poboljšali celokupnu IT bezbednost primenite najbolju praksu bezbedonosnih politika razvijenih u Orion telekomu.
+
+SAZNAJTE VIŠE
+
+Orion telekom Clean Pipe pruža zaštitu od:
+
+MALICIOZNIH FAJLOVA
+
+VIRUSA
+
+POZNATIH RANJIVOSTI
+
+MALICIOZNIH SAJTOVA
+
+PRISTUPA SPOLJA
+
+Zaštita od malicioznih fajlova
+
+Blokiranje tipova fajlova koji se najčešće koriste u malware kampanjama i koji ne bi trebalo da se preuzimaju sa interneta. Blokiranje ovih tipova fajlova smanjuje mogućnost napada. Blokirani su: DLL, Java class, Windows shortcut, BitTorrent, .rar, .tar, encrypted-rar, encrypted-zip, multi-level-encoded files, Widnows Portable Executables.
+
+Postoje mnogobrojni načini na koje maliciozni akteri mogu isporučiti maliciozni fajl:
+
+Kao attachment ili link u mailu
+
+Link u instant messaging aplikaciji ili kroz Društvene mreže
+
+Kroz alate za eksploataciju
+
+Kroz sharing aplikacije (FTP, Google Drive, Dropbox….) itd.
+
+Blokiranje ovih fajlova smanjuje mogućnost uspešnog napada.
+
+Zaštita od virusa
+
+Blokirajte maliciozne fajlove (malware, ransomware i viruse) koji dolaze sa interneta. Internet protokoli koji se na ovaj način štite su: FTP, HTTP, HTTP2, IMAP, POP3, SMB i SMTP.
+
+Zaštita od poznatih ranjivosti
+
+Poznate ranjivosti IT infrastrukture često služe za vektor napada od strane malicioznih aktera. Da bi se od njih zaštitili neophodno je redovno ažuriranje kompletne infrastrukture po preporukama proizvođača IT opreme. Ukoliko se pokuša iskorišćavanje poznate ranjivosti sa interneta, OCP će taj pokušaj zaustaviti.
+
+Prijavite se sada za Orion telekom Clean Pipe rešenje!
+
+PRIJAVITE SE SADA
+
+Zaštita od malicioznih sajtova
+
+Onemogućite pristup visoko rizičnim sajtovima ili sajtovima za koje je poznato da sadrže maliciozni sadržaj. Content filtering – zabrana ili dozvola pristupa web sajtovima po kategoriji kojoj pripadaju (torrenti, pornografija, društvene mreže, online klađenje, itd)
+
+Zaštita od pristupa spolja
+
+Onemogućite pristup vašoj infrastrukturi sa interneta. Postojaće 2 predefinisana profila za svaku od ovih zaštita, normalni i striktni. Striktni profil će blokirati sve gore navedeno, a normalni će blokirati većinu (npr. zip fajlovi će biti dozovoljeni). Na korisniku je da izabere koji profil želi. Postoji mogućnost dodatnog konfigurisanja na zahtev korisnika, prilagođavanja njegovim zahtevima, što će se dodatno naplaćivati.
+
+Prijavite se sada za Orion telekom Clean Pipe rešenje!
+
+Unesite sve neophodne podatke, a naš predstavnik prodaje će vas kontaktirati u najkraćem mogućem roku. Kontaktirajte nas putem email adrese biz.prodaja@oriontelekom.rs ili putem broja telefona 011 4100 007.
+
+Privatni Korisnici
+
+Optički paketi
+
+Prepaid Optički Internet
+
+HIT ADSL akcija: Ostani slobodan!
+
+PREMIUM Optički paketi
+
+Televizija
+
+Fiksna Telefonija
+
+Boosteroid Gaming platforma
+
+Hosting
+
+Poslovni Korisnici
+
+eMobility
+
+eFiskal
+
+eFaktura
+
+Antivirus
+
+Clean Pipe
+
+Data Centar
+
+Internet
+
+SD-WAN
+
+Enterprise WiFi
+
+Fiksna telefonija
+
+Online shop
+
+Hosting
+
+Biznis Gigant paketi
+
+Podrška
+
+Korisnički servis
+
+eRačun
+
+Upis u registar “Ne zovi”
+
+Online prodavnica
+
+Prodajna i uplatna mesta
+
+Uputstva
+
+Drajveri
+
+Orion telekom
+
+O nama
+
+Opšti uslovi i cenovnici
+
+Pravilnik o zaštiti ličnih podataka
+
+Parametri kvaliteta
+
+Vesti
+
+Karijera
+
+Kontakt
+
+Postani naš korisnik
+
+Postani naš prodajni partner
+
+ORION TELEKOM DOO BEOGRAD Naselje Zemun Polje Mala Pruga 8 11080 Beograd-Zemun
+
+Copyright © 2024. ORION TELEKOM DOO BEOGRAD

@@ -1,0 +1,187 @@
+Pozovite nas: 011 4100 200
+
+Privatni korisnici
+
+Početna
+
+Optički paketi
+
+Single Net
+
+Dual TV
+
+Triple
+
+PREMIUM paketi
+
+TV
+
+Fiksni
+
+Hosting
+
+Cloud Gaming
+
+Poslovni korisnici
+
+eMobility
+
+eFiskal
+
+eFaktura
+
+Antivirus
+
+Clean Pipe
+
+Data Centar
+
+Biznis Gigant paketi
+
+Internet
+
+SD-WAN
+
+Enterprise WiFi
+
+Fiksna Telefonija
+
+Online shop
+
+Hosting
+
+Kontakt
+
+Moj Orion
+
+O nama
+
+Vesti
+
+Podrška
+
+Privatni korisnici
+
+Poslovni Korisnici
+
+Moj Orion
+
+O nama
+
+Vesti
+
+Podrška
+
+English
+
+Obaveštenje u vezi prekida u kupovini i obnovi Sectigo AutoSSL sertifikata
+
+Obaveštenje u vezi prekida u kupovini i obnovi Sectigo AutoSSL sertifikata
+
+10.02.2023
+
+Objavljeno u 15:29h in Obaveštenja
+
+Share
+
+Poštovani korisnici,
+
+Sectigo, provajder SSL sertifikata koji se koriste na cPanel serverima najavljuje radove na svojoj infrastrukturi za izdavanje i obnovu SSL sertifikata Quick (AutoSSL) sertifikata.
+
+Radovi će biti izvođeni u sledećim terminima:
+
+Nedelja, 12.02.2023. u periodu od 01:00 do 03:00 po našem vremenu. Nedelja, 19.02.2023. u periodu od 01:00 do 03:00 po našem vremenu. Nedelja, 26.02.2023. u periodu od 01:00 do 13:00 po našem vremenu.
+
+U navedenim periodima neće biti moguće samo izvršiti obnovu i podnošenje zahteva za izdavanje novog SSL sertifikata Quick, dok će već izdati SSL sertifikati Quick funkcionisati normalno.
+
+U navedenom periodu možete podneti zahtev za kupovinu nekog drugog odgovarajućeg SSL sertifikata iz naše ponude putem linka: https://datakingcloud.rs/domeni/ssl-sertifikati/
+
+Hvala na razumevanju.
+
+Vaš Orion telekom
+
+Privatni Korisnici
+
+Optički paketi
+
+Prepaid Optički Internet
+
+HIT ADSL akcija: Ostani slobodan!
+
+PREMIUM Optički paketi
+
+Televizija
+
+Fiksna Telefonija
+
+Boosteroid Gaming platforma
+
+Hosting
+
+Poslovni Korisnici
+
+eMobility
+
+eFiskal
+
+eFaktura
+
+Antivirus
+
+Clean Pipe
+
+Data Centar
+
+Internet
+
+SD-WAN
+
+Enterprise WiFi
+
+Fiksna telefonija
+
+Online shop
+
+Hosting
+
+Biznis Gigant paketi
+
+Podrška
+
+Korisnički servis
+
+eRačun
+
+Upis u registar “Ne zovi”
+
+Online prodavnica
+
+Prodajna i uplatna mesta
+
+Uputstva
+
+Drajveri
+
+Orion telekom
+
+O nama
+
+Opšti uslovi i cenovnici
+
+Pravilnik o zaštiti ličnih podataka
+
+Parametri kvaliteta
+
+Vesti
+
+Karijera
+
+Kontakt
+
+Postani naš korisnik
+
+Postani naš prodajni partner
+
+ORION TELEKOM DOO BEOGRAD Naselje Zemun Polje Mala Pruga 8 11080 Beograd-Zemun
+
+Copyright © 2024. ORION TELEKOM DOO BEOGRAD

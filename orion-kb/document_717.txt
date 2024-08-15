@@ -1,0 +1,233 @@
+Pozovite nas: 011 4100 200
+
+Privatni korisnici
+
+Početna
+
+Optički paketi
+
+Single Net
+
+Dual TV
+
+Triple
+
+PREMIUM paketi
+
+TV
+
+Fiksni
+
+Hosting
+
+Cloud Gaming
+
+Poslovni korisnici
+
+eMobility
+
+eFiskal
+
+eFaktura
+
+Antivirus
+
+Clean Pipe
+
+Data Centar
+
+Biznis Gigant paketi
+
+Internet
+
+SD-WAN
+
+Enterprise WiFi
+
+Fiksna Telefonija
+
+Online shop
+
+Hosting
+
+Kontakt
+
+Moj Orion
+
+O nama
+
+Vesti
+
+Podrška
+
+Privatni korisnici
+
+Poslovni Korisnici
+
+Moj Orion
+
+O nama
+
+Vesti
+
+Podrška
+
+English
+
+ADSL
+
+Fiber optički internet
+
+ADSL
+
+Bežični Internet
+
+VPN
+
+Biznis paketi
+
+Šta je ADSL Internet
+
+Pristup Internetu brzinama većim od klasičnog modema
+
+Pristup Internetu brzinama većim od klasičnog modema (33 ili 56 kilobita u sekundi za analogne linije, 64/128 Kbps za ISDN BRI) obično nazivamo širokopojasnim ili broadbandom. Za takav pristup može se koristiti ADSL tehnologija.
+
+DSL (skraćenica od Digital Subscriber Line – digitalna pretplatnička linija) je tehnologija korišćenja kompletnog frekvencijskog spektra upredene bakarne parice za prenos podataka; klasična telefonija (prenos glasa i podataka pomoću analognih modema) koristi frekventni opseg do 4 kHz, dok DSL modemi imaju daleko šire propusne opsege, trenutno između 100 kHz i 1.1 MHz. DSL tehnologija je korišćena u našim telekomunikacijama i tokom prethodnih godina – Internet provajderi su tu uslugu obično nazivali “iznajmljena linija”.
+
+Za male firme iznajmljena linija je previše skupa, a uz to zauzima telefonsku paricu pa bi pretplatnik morao da uvodi drugu telefonsku liniju za razgovore glasom, što donosi dodatne troškove a često je i tehnički komplikovano. S druge strane, primećeno je da zaposleni u malim firmama obično primaju mnogo više podataka (download) nego što ih šalju (upload). Zato je osmišljen ADSL, asimetrični sistem prenosa koji će se “popeti” na analognu telefonsku liniju, obezbeđujući istovremeni razgovor glasom i prenos podataka velikim brzinama, pri čemu je maksimalna brzina downloada nekoliko puta veća od maksimalne brzine uploada. U svetu se instalira od ranih devedesetih godina.
+
+U Srbiji je instalacija ADSL priključaka počela u januaru 2005. godine, najpre u Beogradu a potom i u većini ostalih gradova.
+
+Prednosti ADSL Interneta
+
+Svaku postojeću telefonsku liniju koristite za stalnu i brzu vezu s Internetom, a pri tom preko iste te linije i dalje telefonirate.
+
+Neke od osnovnih prednosti ADSL-a nad drugim načinima broadband pristupa su:
+
+Koristi se postojeća analogna ili ISDN telefonska linija;
+
+Uspostavlja se stalna veza s Internetom (24 časa dnevno na vezi). Nema zvanja provajdera, signala zauzete linije, čekanja da se veza uspostavi itd;
+
+Postižu se velike brzine prenosa – maksimalna brzina prenosa kod klasičnih analognih linija i modema je 56 kilobita u sekundi, kod ISDN-a 64 ili 128 kilobita u sekundi; ubrzavate, dakle, prenos preko 10 puta;
+
+Analogna ili ISDN linija se i dalje može koristiti za razgovore glasom ili primanje poziva. Pri tom se veza s Internetom ne prekida dok telefonirate glasom – obe aktivnosti teku paralelno;
+
+Linija je slobodna dok ste na Internetu – saradnici i prijatelji koji Vas zovu, neće dobijati signal “zauzeto”, telefon normalno zvoni;
+
+Ne plaćate telefonske impulse za pristup Internetu već fiksnu mesečnu sumu – možete planirati svoje izdatke, a opet će Vam Internet biti pristupačan kad god Vam je nešto potrebno;
+
+Uvođenje je, ako ima tehničkih uslova, brzo i jednostavno, bez potrebe da se provlače novi kablovi ili menjaju postojeći.
+
+Tehnički uslovi
+
+Za raspoloživost ADSL usluge nije važno da li je centrala digitalna već isključivo da li je na centrali ugrađena potrebna oprema.
+
+Korisnik zainteresovan za pristup Internetu na ovaj način mora imati običnu ili ISDN telefonsku liniju na kojoj nema dvojnika,PCM i FM uređaja. Pretplatnik ne sme da bude predaleko od centrale (ne računa se fizička udaljenost, već dužina kablova koji idu kroz kanale; najveći deo gradskih korisnika neće imati problema s rastojanjem), a centrala mora biti opremljena odgovarajućom ADSL opremom.
+
+Za raspoloživost ADSL usluge nije važno da li je centrala digitalna već isključivo da li je na centrali ugrađena potrebna oprema.
+
+Usluga je raspoloživa u većini gradova u Srbiji, pri čemu će za svaki konkretan telefonski broj biti ispitano postojanje tehničkih uslova. Eventualni loš kvalitet telefonskih kablova ili neispravna kućna telefonska instalacija mogu na nekim lokacijama otežati uvođenje ili rad ADSL veze. Ukoliko uslovi ne postoje, Telekom može pokušati da ih stvori tako što će razdvojiti korisnika od dvojnika ili izbeći korišćenje PCM/FM uređaja kod komunikacije. Za takve operacije može biti potrebno određeno vreme, a u retkim slučajevima i promena telefonskog broja.
+
+Uvođenje ADSL priključka
+
+Instalacija je veoma jednostavna – kod korisnika je sve gotovo za nekoliko minuta.
+
+Prodaja ADSL priključaka se vrši preko Orion telekoma, koji u proceduri tesno sarađuje s Telekomom Srbije zbog potreba instalacije i na samoj telefonskoj centrali. Korisnik će zatražiti od Orion telekoma uvođenje ADSL-a, a Orion telekom će proveriti postojanje tehničkih uslova, ugovoriti uspostavljanje priključka, isporučiti korisniku potrebnu opremu i podesiti sve što je potrebno u poslovnom prostoru korisnika.
+
+Instalacija je veoma jednostavna – kod korisnika je sve gotovo za nekoliko minuta. Pri tom nema potrebe za bilo kakvim intervencijama na infrastrukturi korisnika – telefonski priključak se izvuče iz zida, taj kabl se uključi u uređaj koji se zove razdvajač (splitter), telefon se zatim uključi u jedan izlaz razdvajača, a na drugi izlaz se poveže ADSL mrežni uređaj. Taj mrežni uređaj se dalje povezuje s računarom Ethernet ili USB kablom. Razdvajač sadrži mikrofilter koji odvaja frekventni opseg za telefon od opsega za ADSL vezu.
+
+Postoje posebni tipovi ovih uređaja za analognu i ISDN telefonsku liniju i nijedan od njih ne zahteva posebno napajanje. Ukoliko imate više telefona u kućnoj instalaciji, razdvajač se jednostavno povezuje pre njih.
+
+Uz nekoliko podešavanja u Windowsu, sve je spremno za pristup Internetu.
+
+U našoj ponudi imamo veliki dijapazon usluga sa garantovanim i simetričnim protocima. Ukoliko imate dodatnih pitanja, molimo Vas da kontaktirate našu Korporativnu prodaju.
+
+Telefon: 011 4100 007
+
+Email: biz.prodaja@oriontelekom.rs
+
+Privatni Korisnici
+
+Optički paketi
+
+Prepaid Optički Internet
+
+HIT ADSL akcija: Ostani slobodan!
+
+PREMIUM Optički paketi
+
+Televizija
+
+Fiksna Telefonija
+
+Boosteroid Gaming platforma
+
+Hosting
+
+Poslovni Korisnici
+
+eMobility
+
+eFiskal
+
+eFaktura
+
+Antivirus
+
+Clean Pipe
+
+Data Centar
+
+Internet
+
+SD-WAN
+
+Enterprise WiFi
+
+Fiksna telefonija
+
+Online shop
+
+Hosting
+
+Biznis Gigant paketi
+
+Podrška
+
+Korisnički servis
+
+eRačun
+
+Upis u registar “Ne zovi”
+
+Online prodavnica
+
+Prodajna i uplatna mesta
+
+Uputstva
+
+Drajveri
+
+Orion telekom
+
+O nama
+
+Opšti uslovi i cenovnici
+
+Pravilnik o zaštiti ličnih podataka
+
+Parametri kvaliteta
+
+Vesti
+
+Karijera
+
+Kontakt
+
+Postani naš korisnik
+
+Postani naš prodajni partner
+
+ORION TELEKOM DOO BEOGRAD Naselje Zemun Polje Mala Pruga 8 11080 Beograd-Zemun
+
+Copyright © 2024. ORION TELEKOM DOO BEOGRAD

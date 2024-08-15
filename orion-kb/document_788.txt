@@ -1,0 +1,281 @@
+Pozovite nas: 011 4100 200
+
+Privatni korisnici
+
+Početna
+
+Optički paketi
+
+Single Net
+
+Dual TV
+
+Triple
+
+PREMIUM paketi
+
+TV
+
+Fiksni
+
+Hosting
+
+Cloud Gaming
+
+Poslovni korisnici
+
+eMobility
+
+eFiskal
+
+eFaktura
+
+Antivirus
+
+Clean Pipe
+
+Data Centar
+
+Biznis Gigant paketi
+
+Internet
+
+SD-WAN
+
+Enterprise WiFi
+
+Fiksna Telefonija
+
+Online shop
+
+Hosting
+
+Kontakt
+
+Moj Orion
+
+O nama
+
+Vesti
+
+Podrška
+
+Privatni korisnici
+
+Poslovni Korisnici
+
+Moj Orion
+
+O nama
+
+Vesti
+
+Podrška
+
+English
+
+FAQ
+
+TV
+
+Doplatni TV servisi
+
+FAQ
+
+Orion TV Prepaid
+
+LAKI Smart uređaji
+
+Često postavljana pitanja
+
+Ovde možete da pronađete odgovore na najčešće postavljana pitanja i nedoumice korisnika u vezi sa uslugom Orion IPTV Srbija.
+
+Da li mogu kupiti Orion IPTV kao zasebnu uslugu?
+
+Daa! IPTV Srbija upravo to i jeste, zadovoljstvo gledanja televizije nezavisno od Vašeg Internet provajdera. Od sada, ukoliko želite IPTV kao posebnu uslugu, možete je imati!
+
+Da li je potrebno imati Internet pristup kako bi IPTV usluga bila funkcionalna?
+
+Kako bi usluga bila funkcionalna Internet pristup je neophodan uslov. IPTV (Internet Protocol Television) ne funkcioniše bez Interneta.
+
+Da li moram da koristim Orion Internet ako želim IPTV uslugu?
+
+Orion telekom Vam omogućava gledanje IPTV kanala nezavisno od Internet provajdera. Ne želimo da Vam uskratimo zadovoljstvo gledanja programa i ako ne koristite naš Internet. Preporuka je da koristite Orion Internet zbog garancije kvaliteta i povoljnijih uslova.
+
+Broj TV Kanala?
+
+Spisak kanala iz osnovne ponude možete pogledati ovde. Dostupni su u Normal i High rezoluciji.
+
+Koje doplatne pakete imate u ponudi?
+
+Ponudu doplatnih paketa možete videti na sledećem linku.
+
+Koja je najmanje zahtevana brzina Interneta da bi IPTV usluga bila funkcionalna?
+
+Najmanje zahtevana brzina Interneta kako bi IPTV usluga funkcionisala je 1.5 Mbps. Preporučena brzina je 3 Mbps da biste mogli da gledate High profil kanale.
+
+Da li je signal digitalni ili analogni?
+
+Mi isporučujemo digitalni signal. Slika koju dobijate digitalnim putem je kristalno čista, za razliku od one koja se dobija analognim putem (kablovskom) koja uvek ima određenih smetnji (snega).
+
+Ko instalira Orion IPTV Srbija?
+
+Imate mogućnost da sami povežete STB uređaj uz pomoć uputstva. Takođe, pomoć oko povezivanja možete dobiti na licu mesta od našeg prodavca ili telefonskim putem uz pomoć operatera.
+
+Zbog čega je STB uređaj za IPTV obavezan?
+
+STB (Set Top Box) je uređaj koji ima ulogu obrade digitalnog signala primljenog preko Interneta, kako bi se prilagodio prikazivanju na TV prijemniku. Bez STB uređaja IPTV usluga nije funkcionalna. Pored Interneta, ovo je drugi neophodan uslov za gledanje IP Televizije.
+
+Da li se STB uređaj iznajmljuje ili kupuje?
+
+STB uređaj se iznajmljuje.
+
+Da li je potrebno kucati PIN kod svaki put?
+
+PIN kod nije potrebno kucati svaki put, ako uključite opciju automatske prijave. Podešavanje uređaja -> Podešavanje Automatske prijave -> Unesite PIN kod -> Aktivirajte opciju.
+
+Da li STB uređaj poseduje HDMI izlaz?
+
+STB uređaji koje iznajmljujemo poseduju HDMI izlaz na koji možete povezati Vaš TV. Ukoliko imate TV starije generacije, ne brinite, STB možete povezati preko AV ulaza i SCART kabla u zavisnosti od modela.
+
+Da li u paketu sa STB opremom dajete i HDMI kabal?
+
+HDMI kabal nije u paketu sa opremom za IPTV. HDMI kabal možete nabaviti u našim poslovnicama po veoma povoljnoj ceni.
+
+Koji TV moram da imam za IPTV?
+
+Bilo koji TV aparat sa AV (činčevi), SCART ili HDMI ulazima.
+
+Kako se povezuje STB uređaj sa routerom za Internet i TV prijemnikom?
+
+Orion STB uređaj se povezuje preko LAN kabla sa Internet routerom. Za povezivanje sa TV prijemnikom STB uređaj podržava povezivanje preko HDMI, SCART i AV (činčevi) kabla.
+
+Da li mogu da povežem Orion STB na TV karticu na mom računaru?
+
+Možete. Na TV kartici morate da imate jedan od podržanih ulaza (HDMI, SCART, AV) kako biste uspeli da povežete STB sa računarom.
+
+Da li mogu istovremeno da povežem Orion IPTV sa antenskim i kablovskim kanalima?
+
+Možete. Preko daljinskog upravljača birate način prijema signala.
+
+Ukoliko imam više TV aparata da li mi je dovoljan jedan STB uređaj?
+
+Dovoljan Vam je jedan STB uređaj na koji možete povezati više TV aparata, ali će se program koji gledate na jednom TV-u emitovati i na drugom. Ukoliko želite da gledate različite TV kanale, potrebna su Vam dva STB uređaja.
+
+EPG - Elektronski programski vodič?
+
+EPG (Electronic Program Guide) daje Vam mogućnost uvida u programsku šemu omiljenih TV kanala više dana unapred.
+
+Da li je moguće definisati svoju listu omiljenih kanala?
+
+Pored standardnog redosleda kanala, pružamo Vam mogućnost pravljenja sopstvene liste kanala.
+
+Roditeljska zaštita?
+
+Sistem roditeljske zaštite služi kako biste zaštitili svoju decu od gledanja neželjenog TV programa. Paketi za odrasle imaju automatski uključenu roditeljsku zaštitu.
+
+Podsetnik?
+
+Podsetnik je sistem koji Vas obaveštava da se bliži vreme početka Vaše omiljene emisije i automatski prebacuje kanal. Na ovaj način isključujemo mogućnost da propustite epizodu omiljene serije, utakmicu, film ili nešto drugo.
+
+Ukoliko dođe do zamrzavanja slike šta je potrebno uraditi?
+
+Ukoliko dođe do zamrzavanja slike potrebno je promeniti kanal za jedan na više. Ako slika ostane zamrznuta, restartujete Vaš STB uređaj i proverite Internet konekciju.
+
+Da li IPTV može da se prebaci na novu lokaciju u slučaju preseljenja?
+
+IPTV možete preseliti na novu lokaciju, pod uslovom da na toj lokaciji posedujete aktivan Internet pristup.
+
+Ja sam podstanar. Da li mora vlasnik stana da potpiše Ugovor?
+
+Ne mora. Korisnik IPTV Srbija možete postati bez obzira gde i kod koga stanujete, ukoliko imate aktivan Internet pristup. U slučaju preseljenja, uslugu možete seliti sa sobom na novu lokaciju, u skladu sa uslovima korišćenja i tehničkim preduslovima.
+
+Ukoliko imam problem sa IPTV-jem gde mogu da prijavim?
+
+Problem možete prijaviti našem korisničkom servisu na 011 4100 100 ili na mail korisnicka.zona@oriontelekom.rs.
+
+Privatni Korisnici
+
+Optički paketi
+
+Prepaid Optički Internet
+
+HIT ADSL akcija: Ostani slobodan!
+
+PREMIUM Optički paketi
+
+Televizija
+
+Fiksna Telefonija
+
+Boosteroid Gaming platforma
+
+Hosting
+
+Poslovni Korisnici
+
+eMobility
+
+eFiskal
+
+eFaktura
+
+Antivirus
+
+Clean Pipe
+
+Data Centar
+
+Internet
+
+SD-WAN
+
+Enterprise WiFi
+
+Fiksna telefonija
+
+Online shop
+
+Hosting
+
+Biznis Gigant paketi
+
+Podrška
+
+Korisnički servis
+
+eRačun
+
+Upis u registar “Ne zovi”
+
+Online prodavnica
+
+Prodajna i uplatna mesta
+
+Uputstva
+
+Drajveri
+
+Orion telekom
+
+O nama
+
+Opšti uslovi i cenovnici
+
+Pravilnik o zaštiti ličnih podataka
+
+Parametri kvaliteta
+
+Vesti
+
+Karijera
+
+Kontakt
+
+Postani naš korisnik
+
+Postani naš prodajni partner
+
+ORION TELEKOM DOO BEOGRAD Naselje Zemun Polje Mala Pruga 8 11080 Beograd-Zemun
+
+Copyright © 2024. ORION TELEKOM DOO BEOGRAD

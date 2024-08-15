@@ -1,0 +1,57 @@
+9.11. Orion eM će obavestiti krajnjeg korisnika koji nije izmirio svoje obaveze i posledicama neplaćanja dospelih obaveza i istovremeno ga podsetiti da izmiri dug najkasnije u roku navedenom u opomeni. Orion eM može da pošalje opomenu krajnjem korisniku putem registrovanih elektronskih komunikacionih kanala (na pr. putem SMS, e-mail). Ukoliko krajnji korisnik ne izmiri svoje dospele obaveze nakon isteka dodatno ostavljenog roka određenog u opomeni, Orion eM može prestati da pruža usluge tom krajnjem korisniku, a što svakako ne utiče na obaveze tog korisnika koje su nastale do tog momenta.
+
+9.12. Korisnik je odgovoran za korišćenje usluga punjenja električnog vozila koje se odvija preko njegovog korisničkog naloga, bez obzira koje lice je zaista koristilo konkretnu uslugu i njegov korisnički nalog. U slučaju zloupotrebe korisničkog naloga, krajnji korisnik koji smatra da je njegov korisnički nalog zloupotrebljen, u obavezi je da izmiri sve troškove za usluge izvršene pre blokade usluga (i samog korisničkog naloga) i to do trenutka kada Orion eM primi obaveštenje tog korisnika o zloupotrebi. Isto važi i za sve druge troškove nastale zbog gubitka ili krađe korisničkih uređaja na kojima je instalirana eMobility aplikacija, korisničkih imena i lozinki, gubitka RFID kartice i slično.
+
+9.13. Orion eM čuva i obrađuje podatke o obavljenim transakcijama, odnosno o korišćenim uslugama, a koji su mu potrebni za naplatu potraživanja od krajnjeg korisnika. Orion eM postupa sa podacima o izvršenim transakcijama u skladu sa zakonom kojim se uređuje zaštita ličnih podataka.
+
+9.14. Orion eM može naplatiti dospela, a neizmirena potraživanja prema krajnjem korisniku za korišćene usluge punjenja električnog vozila skidnjem sredstava koja korisnik ima na svom korisničkom nalogu. Ukoliko korisnik ima dospele, a neizmirene obaveze prema Orion eM, Orion eM može i da pokrene postupak prinudne naplate potraživanja prema korisniku, a za čije sprovođenje može da angažuje treće lice.
+
+10. Briga o korisnicima
+
+10.1. Orion eM je Korisnicima (Partnerima, klijentima kao i krajnjim korisnicima) u pogledu svih usluga koje su predmet ovih Opštih uslova obezbedio korisničku podršku (tehničku i komercijalnu).
+
+10.2. U slučaju da je uzrok prijavljene greške/smetnje u domenu odgovornosti Orion eM, sva podrška i otklanjanje greške/smetnji je besplatno.
+
+10.3. Korisnička podrška se odnosi samo na usluge punjenja električnih vozila i namenjena je krajnjim korisnicima. Za rad aplikacije i održavanje celokupne infrastrukture za punjenje, Orion eM nije u obavezi da nudi usluge korisničke podrške.
+
+10.4. Korisnička podrška koju Orion eM pruži krajnjem korisniku, ako je grešku/smetnju prouzrokovao sam korisnik, odnosno kada greška i/ili smetnja ne mogu da se smatraju odgovornošću Orion eM, takođe se naplaćuje.
+
+10.5. Orion eM pruža Partnerima i Klijentima tehničku podršku vezanu za rad i funkcionisanje infrastrukture za punjenje. Tehnička podrška se sastoji u servisiranju, unapređenju, održavanju i kompletnoj brizi o navedenoj infrastrukturi. Rizik slučajne propasti Orion eM punjača ili njihovog oštećenja (usled krađe, požara, više sile, fizičkog loma celog uređaja ili njegovih sastavnih delova i sl.) snosi Partner/Klijent od trenutka instalacije svakog pojedinačnog punjača. Kontakt za tehničku podršku su e-mail support.emobility@oriontelekom.rs ili telefonom na +381 11 4100333.
+
+10.6. Orion eM pruža krajnjim korisnicima, odnosno korisnicima Emobility aplikacije mogućnost praćenja i kontrole potrošnje sredstava na njihovim registrovanim korisničkim nalozima. Orion eM poštuje privatnost podataka korisnika i obezbeđuje poverljiv tretman podataka u najvećoj mogućoj meri, a imajući u vidu prirodu same tehnologije, procedure u upotrebi i važeće propise.
+
+11. Reklamacije
+
+11.1. Ukoliko krajnji korisnik smatra da postoje nepravilnosti u obračunu, podacima na računu ili smatra da postoje neke druge nepravilnosti u vezi sa korišćenjem usluga u okviru Orion eMobiity servisa, odnosno uslugom korišćenja Orion eM punjača i/ili eMobility aplikacije, potrebno je da uloži reklamaciju.
+
+11.2. Korisnik može uložiti reklamaciju slanjem iste na e-mail adresu: emobility@oriontelekom.rs ili slanjem preporučene pošiljke na adresu Naselje Zemun Polje Mala pruga br. 8.
+
+11.3. Orion eM neće uvažiti reklamacije koje su nejasne, nepotpune i podnete neblagovremeno, kao ni reklamacije koje nisu podnete od strane krajnjeg korisnika sa zvanične (e-mail) adrese koju je koristio prilikom registracije svog korisničkog naloga.
+
+11.4. Reklamacija mora da sadrži precizan opis nepravilnosti u obračunu ili drugog razloga za reklamaciju, mora sadržati adekvatne dokaze kojima korisnik dokazuje postojanje nepravilnosti i mora biti upućena direktno od strane krajnjeg korisnika konkretne usluge u vezi sa kojom ulaže reklamaciju.
+
+11.5. Rok za odgovor na reklamaciju je 8 dana od dana njenog prijema, dok je rok za rešavanje reklamacije 30 dana od dana njenog prijema. Ukoliko Orion eM iz objektivnih razloga nije u mogućnosti da udovolji zahtevu krajnjeg korisnika u roku koji je dogovoren, dužan je da tog korisnika obavesti o produžavanju roka za rešavanje reklamacije i navede rok u kome će je rešiti, kao i da dobije njegovu saglasnost.
+
+11.6. U slučajevima kada krajnji korisnik ostvari pravo na povraćaj sredstava koja je uplatio radi korišćenja usluge punjenja svog električnog vozila, nekom od platnih kartica – delično ili u celosti, a bez obzira na razlog vraćanja, Orion eM je u obavezi da povraćaj ovih sredstava vrši se isključivo preko VISA, EC/MC i Maestro, Amex i Dina metoda plaćanja, što znači da će banka na zahtev Orion eM-a, obaviti povraćaj sredstava na račun korisnika navedene platne kartice.
+
+12. Raskid
+
+12.1 Pretplatnički odnos koji nastaje registracijom korisnika može prestati u svakom trenutku, a svakako prestaje ukoliko krajnji korisnik sa svog uređaja izbriše eMobility aplikaciju, usled smrti krajnjeg korisnika, usled postojanja neizmirenog dugovanja krajnjeg korisnika prema Orion eM, ukoliko krajnji korisnik čini zloupotrebe opisane u ovim Opštim uslovima, ukoliko ne ispunjava uslove ili obaveze ili na drugi način krši odredbe ovih Opštih uslova ili važećih propisa i ne postupa u skladu sa zahtevima Orion eM i iz drugih sličnih razloga.
+
+12.2. Ugovorni odnos između Orion eM i njegovih Partnera i klijenata prestaje raskidom zaključenih ugovora između ovh subjekata, sve u skladu sa uslovima predviđenim tim ugovorima.
+
+12.3. U slučaju raskida pretplatničkog odnosa i/ili zaključenog ugovora, Korisnici moraju regulisati sve obaveze prema Orion eM nastale do dana raskida.
+
+13. Završne odredbe
+
+13.1. Orion eM može u bilo kom trenutku da izmeni odredbe ovih Opštih uslova, cene usluga u okviru Orion eMobility Servisa, ponudu navedenih usluga kao i njihov sadržaj.
+
+13.2. Orion eM se obavezuje da obavesti Korisnike o svim promenama, tako što će obaveštenje objaviti na svojoj web stranici, a po potrebi i u skladu sa konkretnim okolnostima i putem elektronskog pisanog obaveštavanja ili u samoj eMobility aplikaciji.
+
+13.3. Ukoliko bilo koji korisnik nastavi da koristi usluge nakon što primi obaveštenje o nastalim izmenama, smatra se da je on saglasan sa istima.
+
+13.4. Orion eM zadržava pravo ažuriranja i modifikacije eMobility aplikacije izmenom njenog sadržaja bez posebnog obaveštavanja korisnika, tako da neće biti odgovoran za moguće posledice proizašle iz takvih promena.
+
+13.5. U slučaju da se za bilo koji deo ovih Opštih uslova ustanovi da je neodgovarajuć ili nevažeći, to neće uticati na ostale njegove odredbe koje će nastaviti da važe i dalje.
+
+13.6. Opšti uslovi predstavljaju sastavni deo ugovora koje Orion eM zaključi sa Parterima i klijentima. Istovremeno, davanje saglasnosti krajnjeg korisnika na ove Opšte uslove predstavlja neophodan preduslov za korišćenje Orion eMobility aplikacije.

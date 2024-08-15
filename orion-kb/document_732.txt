@@ -1,0 +1,111 @@
+Pozovite nas: 011 4100 200
+
+Privatni korisnici
+
+Početna
+
+Optički paketi
+
+Single Net
+
+Dual TV
+
+Triple
+
+PREMIUM paketi
+
+TV
+
+Fiksni
+
+Hosting
+
+Cloud Gaming
+
+Poslovni korisnici
+
+eMobility
+
+eFiskal
+
+eFaktura
+
+Antivirus
+
+Clean Pipe
+
+Data Centar
+
+Biznis Gigant paketi
+
+Internet
+
+SD-WAN
+
+Enterprise WiFi
+
+Fiksna Telefonija
+
+Online shop
+
+Hosting
+
+Kontakt
+
+Moj Orion
+
+O nama
+
+Vesti
+
+Podrška
+
+Privatni korisnici
+
+Poslovni Korisnici
+
+Moj Orion
+
+O nama
+
+Vesti
+
+Podrška
+
+English
+
+Opšti uslovi korišćenja Orion eMobility Servisa
+
+1. Opšte odredbe
+
+1.1. Ovi Opšti uslovi korišćenja Orion eMobility Servisa (dalje u tekstu: Opšti uslovi) regulišu odnos između privrednog društva ORION E MOBILITY DOO (dalje u tekstu: Orion eM) i korisnika Orion eMobility Servisa, odnosno korisnika svih usluga koje su u sklopu Orion eMobility Servisa.
+
+1.2. Kao korisnici Orion eMobility Servisa javljaju se kako Partneri Orion eM-a sa kojima ovo privredno društvo ima uspostavljenu medjusobnu poslovnu saradnju, te i klijenti Orion eM kojima Orion eM prodaje punjače za električna vozila (Orion eM punjače) radi njihove instalacije na željenim lokacijama u skladu sa zaktevima klijenata, i na kraju i sami krajnji korisnici usluga u okviru pomenutog Servisa. Odnos između Orion eM-a i njegovih Partnera/klijenata definiše se odgovarajućim ugovorima o poslovno-tehničkoj saradnji, ponudom koja je važeća u trenutku zaključivanja ovih ugovora (dalje u tekstu: Ponuda), politikom privatnosti koja se primenjuje kao i ostalim pisanim sporazumima između Orion eM-a i njegovih partnera, odnosno klijenata, uputstvima i odgovarajućim propisima koji posredno ili neposredno odnose na usluge koje su predmet regulisanja ovih Opštih uslova. Odredbe Opštih uslova se primenjuju ukoliko relevantni propisi, odredbe Ugovora i ostali sporazumi između Orion eM-a i Partnera/klijenata nisu u suprotnosti sa njima, a primenjuju se i u pogledu svih pitanja koja ne regulišu druga pomenuta dokumenta.
+
+1.3. Orion eMobility Servisi obuhvataju prodaju i ugradnju električnih uredjaja za punjenje tipa AC i DC (dalje: Orion eM punjače/punjače za električna vozila/punjači) različitih snaga, kao i ustupanje na korišćenje licence za potrebe korišćenja aplikacije/softvera (dalje: eMobility aplikacija) koja će krajnjim korisnicima omogućavati korišćenje punjača za električna vozila, pružati važne informacije i putem koje će krajnjim korisnicima svi punjači, odnosno mreža punjača, biti vidljive na interaktivnoj mapi. Takođe, eMobility aplikacija omogućava i naplatu usluga korišćenja Orion eM punjača od strane krajnjih korisnika.
+
+1.4. Orion eM je vlasnik softverskog rešenja, odnosno eMobility aplikacije, te i ovlašćen da ustupa trećim licima (Partnerima, klijentima, krajnjim korisnicima) licencu za korišćenje ove aplikacije koja se zasniva na pomenutom softverskom rešenju. Orion eM je i operator celokupnog sistema za naplatu svih usluga u okviru Orion eMobility Servisa, odnosno prodaju Orion eM punjača, naplatu korišćenja eMobility aplikacije kao i naplatu usluga korišćenja samih punjača, odnosno naplatu usluge punjenja električnog vozila na Orion eM punjačima od strane krajnjih korisnika. Pružanje pojedinih usluga u okviru Orion eMobility servisa Orion eM može poveriti Partneru, odnosno klijentu na osnovu međusobno zaključenog ugovora.
+
+1.5. Korišćenje usluga samog punjenja električnih vozila na Orion eM punjačima od strane krajnjih korisnika omogućeno je preko eMobility aplikacije koju korisnici mogu preuzeti na postojećim internet pordavnicama (Play Store za korisnike Android operativnih sistema, odnosno na Apple Store za korisnike IOS operativnih sistema). Preuzimanjem aplikacije, korišćenje usluga punjenja električnog vozila omogućeno je i roaming korisnicima, odnosno korisnicima koji navedene usluge punjenja koriste u inostranstvu na stanicama za punjenje električnih vozila koje u skladu sa zaključenim Ugovorom pripadaju Partnerima Orion eMa. Korišćenje usluge punjenja električnog vozila omogućeno je i putem RFID kartica koje krajnji korisnici mogu preuzeti kod Partnera Orion eM.
+
+1.6. Uslovi rada i korišćenje usluga punjenja električnog vozila na stanicama za punjenje, kada usluge koriste roaming korisnici, podležu zakonodavstvu države u kojoj se ove usluge koriste.
+
+1.7. Cenovnici koji budu dostupni Partnerima kao i krajnjim korisnicima, određuju redovne cene korišćenja Orion eMobility Servisa, pojedinačnih usluga u okviru samog Servisa, opreme, Orion eM punjača, kao i iznose naknada u slučaju kršenja propisanih obaveza od strane ovih lica, a koje Orion eM ima pravo da naplati kao rukovodilac Orion eMobility Sistema i operator selokupnog sistema za naplatu usluga u okviru Orion eMobility Sistema.
+
+1.8. Sve informacije o važećim Opštim uslovima, cenama svih usluga, kao i kontakt podaci, navedeni su u okviru eMobility aplikacije.
+
+1.9. U slučaju izmene i/ili revizije Opštih uslova, radi nastavka korišćenja eMobility aplikacije, od njenih korisnika će biti tražena saglasnost na izmenjene Opšte uslove.
+
+2. Instalacija Orion eMobility aplikacije, registracija korisnika
+
+2.1. Usluge u okviru Orion eMobility Servisa koje su namenjene krajnjim korisnicima (kao što je usluga punjenja električnih automobila/vozila, naplata ove usluge i slično) ova lica mogu koristiti putem eMobility aplikacije. Registracija krajnjih korisnika se vrši preko navedene aplikacije. Unošenjem svih traženih podataka i na kraju davanjem saglasnosti krajnjeg korisnika sa ovim Opštim uslovima, zaključuje se pretplatnički odnos između krajnjeng korisnika i Orion eM i ujedno se kreira nalog ovih korisnika u cilju korišćenja svih raspoloživih usluga u okviru Orion eMobility Servisa.
+
+2.2. Pretplatnički odnos se zaključuje na neodređeni period vremena. Korišćenje usluga je moguće jedino nakon aktivacije naloga krajnjeg korisnika. Pretplatnički odnos zaključuje se putem eMobility aplikacije i nikakvi usmeni dogovori i slično nisu važeći. Sve izmene u vezi sa korišćenjem same aplikacije moguće su samo na aktivnim nalozima krajnjih korisnika.
+
+2.3. Prilikom same registracije, neophodno je i da se krajnji korisnik saglasi i sa obradom podataka o ličnosti koje unosi u samu aplikaciju, a koja obrada se vrši u skladu sa Zakonom o obradi podataka o ličnosti kao i Politikom privatnosti objavljenom na web starnici Orion eM. U slučaju da korisnik želi da prima personalizovane i ostale marketinške ponude, o prihvatanjem ovih Opštih uslova istovremeno daje svoju posebnu saglasnost za obradu podataka potrebnih za ove svrhe. Za kreiranje personalizovanih ponuda, a radi prilagođavanja ponuda krajnjem korisniku, Orion eM je ovlašćen da pristupi bazi sa svim transakcijama korisnika.
+
+2.4. Informacije koje korisnik pruži prilikom registracije i kreiranja svog korisničkog naloga moraju da budu istinite, tačne i potpune, te korisnik garantuje za tačnost podataka koje je direktno dostavio, odnosno uneo u samu aplikaciju. Korišćenje eMobility aplikacije je dozvoljeno licima koja imaju navršenih 18 ili više godina.
+
+2.5. Krajnji korisnik je u obavezi da u slučaju da dođe do promene u njegovim ličnim podacima, nastale promene odmah unese u svoj korisnički nalog. Ako korisnik ne unese potrebne promene, Orion eM može privremeno da spreči korišćenje usluga. Sva finansijska i pravna opterećenja proistekla iz neblagovreme izmene ličnih podataka će ići na teret korisnika. Ako korisnik ne obavesti Orion eM o promeni ličnih podataka, smatraće se da su fakture i sve ostale poruke koje su poslate korisniku na registrovane adrese date u trenutku registracije njegovog korisničkog naloga, primljene.
+
+2.6. Korisnik potvrđuje da aplikaciju koristi isključivo na sopstvenu odgovornost, i nepozivo je saglasan da Orion eM ne daje bilo kakve garancije niti preuzima odgovornost za bilo koje eventualne štete koje korisnik pretrpi prilikom korišćenja aplikacije i interneta. Korisnik oslobađa bilo kakve odgovornosti Orion eM za garantovanje dostupnosti interneta s obzirom na to da Orion eM nema nad tim bilo kakvu kontrolu.

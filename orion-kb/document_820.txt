@@ -1,0 +1,231 @@
+Pozovite nas: 011 4100 200
+
+Privatni korisnici
+
+Početna
+
+Optički paketi
+
+Single Net
+
+Dual TV
+
+Triple
+
+PREMIUM paketi
+
+TV
+
+Fiksni
+
+Hosting
+
+Cloud Gaming
+
+Poslovni korisnici
+
+eMobility
+
+eFiskal
+
+eFaktura
+
+Antivirus
+
+Clean Pipe
+
+Data Centar
+
+Biznis Gigant paketi
+
+Internet
+
+SD-WAN
+
+Enterprise WiFi
+
+Fiksna Telefonija
+
+Online shop
+
+Hosting
+
+Kontakt
+
+Moj Orion
+
+O nama
+
+Vesti
+
+Podrška
+
+Privatni korisnici
+
+Poslovni Korisnici
+
+Moj Orion
+
+O nama
+
+Vesti
+
+Podrška
+
+English
+
+VoIP
+
+Fiksni
+
+VoIP
+
+SMS Servis
+
+Telefonski imenik
+
+Moj Fiksni
+
+Orion VoIP
+
+Orion VoIP preko Interneta je namenjen prvenstveno korisnicima Orion telekom širokopojasnog Interneta, ali i svim drugim korisnicima koji imaju Internet pristup.
+
+Za ostvarivanje Orion VoIP razgovora nema potrebe da imate fiksni telefon. Na taj način nemate troškove pozivanja pristupnog Orion VoIP broja.
+
+Broj sagovornika birate putem Web telefona na isti način kao kada pozivate sa standardnog fiksnog telefona. Korišćenje Web telefona je omogućeno na Orion VoIP korisničkom portalu.
+
+Na koririsničkom portalu možete detaljno proveriti stanje svog računa, listu svih poziva i cene za sve destinacije.
+
+Da bi ste Orion VoIP uslugu koristili putem Interneta, potrebno je da se registrujete na Orion telekom sistem i aktivirate Orion VoIP uslugu.
+
+Telefoniranje putem Orion VoIP korisničkog portala
+
+Nakon što ste se registrovali na sistem Orion telekoma i aktivirali Orion VoIP uslugu, možete se prijaviti na Orion VoIP korisnički portal. Po prijavljivanju na portal automatski će se otvoriti dodatni prozor sa Web telefonom iz koga direktno možete birati broj sagovornika.
+
+Napomena
+
+Da bi ste koristili Web telefon potrebno je da uključite opciju za pojavljivanje pop-up prozora. Web telefon radi isključivo u Internet Exploreru.
+
+Na Orion VoIP korisničkom portalu možete detaljno proveriti stanje svog računa, listu svih poziva i cene za sve destinacije.
+
+Kvalitetan zvuk pri telefoniranju
+
+Za kvalitetniji zvuk Orion telekom savetuje korišćenje slušalica sa mikrofonom.
+
+Orion VoIP putem IP telefona, ATA adaptera i gejtvej uređaja
+
+Orion VoIP preko Interneta može da se koristi sa raznovrsnim IP telefonima, adapterima za klasične telefone i gejtvej uređajima za povezivanje na klasičnu telefonsku opremu. Orion VoIP je baziran na standardnim VoIP protokolima za prenos glasa preko Interneta i kompatibilan je sa brojnim IP telefonima koji podržavaju SIP standard.
+
+Biranje broja
+
+Broj birate na uobičajeni način – prvo 00 za izlaz, pa pozivni broj zemlje, potom broj za mrežu ili grad i na kraju broj telefona. Na primer, za broj u Berlinu, Nemačka poziv bi ostvarili sa 00 49 30 … (49 je Nemačka, 30 oznaka za Berlin).
+
+Provera stanja računa
+
+Kroz Orion VoIP korisnički portal možete detaljno proveriti stanje svog računa, listu svih poziva i cene za sve destinacije.
+
+Registrujte broj
+
+Registrujte Vaše brojeve telefona preko Orion VoIP portala i telefonirajte bez unošenja PIN koda.
+
+Kao registrovani Orion VoIP korisnik na Orion VoIP portalu možete registrovati Vaše brojeve telefona sa kojih ostvarujete pozivate, da pri tom ne morate da unosite PIN kod svaki put kada pozivate.
+
+Da bi ste registrovali brojeve telefona sa kojih ostvarujete pozive potrebno je da aktivirate Orion VoIP nalog iz korisničkog portala moj.oriontelekom.rs.
+
+Kako registrovati broj
+
+Potrebno je da pristupite korisničkom Orion VoIP potralu na adresi sit.sezampro.rs
+
+Iz menija izaberite opciju Registrovani brojevi
+
+U naznačena polja na stranici unestite svoj broj sa kog želite da telefonirate
+
+Najčešće pozivane destinacije
+
+Cena minuta razgovora zavisi od mreže u kojoj se nalazi broj koji pozivate. Orion VoIP sistem omogućava razgovore sa oko 22.000 mreža u celom svetu.
+
+ZEMLJA CENA POZIVA Nemačka, Austrija od 5,55 din. Velika Britanija od 5,55 din. Francuska, Španija, Italija od 5,55 din. Holandija, Belgija od 5,55 din. Poljska, Češka od 5,55 din. SAD, Kanada od 5,55 din. Rusija od 5,55 din. Hrvatska, Makedonija od 15,55 din. Republika Srpska, BiH od 15,55 din. Mađarska, Bugarska, Rumunija od 5,55 din. Grčka od 5,55 din. Turska od 15,55 din. Kina od 5,55 din. Japan od 5,55 din. Južnoafrička republika od 5,55 din. Australija i Novi Zeland od 5,55 din. Argentina, Brazil od 5,55 din. Čile od 15,55 din. Indija od 5,55 din.
+
+Sve cene su date u dinarima sa uračunatim PDVom, za minut razgovora.
+
+Cenovnik svih destinacija možete pogledati ovde.
+
+NAPOMENA:
+
+Pozivanje 0800 800 800 i 0800 800 900 ne uvećava račun za Vaš fiksni telefon.
+
+U nekim zemljama (USA, Kanada, Rusija, Kina) korisnici mobilnih telefona plaćaju prijem poziva, pa su cene slične kao i cene za pozive fiksnih mreža.
+
+Orion VoIP korisnički portal
+
+Kao Orion VoIP korisnik na korisničkom portalu možete:
+
+Pregledati listu poslednjih poziva
+
+Kreirati imenik brojeva koje često pozivate
+
+Vezati svoj broj telefona za Orion VoIP nalog
+
+Pregledati tarife destinacija koje želite da pozivate
+
+Telefonirati putem Web telefona
+
+Orion VoIP portalu možete pristupiti ovde.
+
+Postani naš korisnik
+
+Najčešće postavljana pitanja
+
+Šta je Orion VoIP?
+
+Orion VoIP je usluga jeftinog međunarodnog telefoniranja. Orion VoIP se bazira na modernim Internet komuniakcijama, može koristiti na više načina i omogućava puni kvalitet razgovora uz niže troškove.
+
+Šta je PIN?
+
+PIN je tajni kod (lozinka) za pristup Orion VoIP usluzi običnim telefonom, može se naći na Orion VoIP karticama, vaučerima sa bankomata ili kao trajni PIN.
+
+Da li je Internet neophodan za Orion VoIP uslugu?
+
+Nije, jeftini međunarodni razgovori su mogući i bez Internet veze, pozivanjem Orion VoIP telefonskog broja sa fiksnog telefona.
+
+Da li za telefoniranje Orion VoIPom moram biti Orion telekom korisnik?
+
+Ne. Orion VoIP usluga je nezavisna od usluge Internet pristupa koju pruža Orion telekom.
+
+Ukoliko koristite Orion VoIP putem telefonske karticom Internet veza vam nije potrebna. Ukoliko koristiti Orion VoIP preko Interneta treba da imate kvalitetnu širokopojasnu Internet vezu i možete koristiti VoIP, bez obzira ko vam je provajder i gde se nalazite.
+
+Kako biram broj u inostrantstvu?
+
+Ako koristite Orion VoIP sa fiksnog telefona morate prvo da se prijavite PIN kodom. Za Orion VoIP preko Interneta željeni broj se bira direktno.
+
+Međunarodni broj pozivate birajući 00, zatim oznaku zemlje, potom oznaku mreže ili grada i na kraju broj telefona. Na primer, za broj u Berlinu, Nemačka, poziv bi ostvarili sa 00 49 30 ……. (49 je Nemačka, 30 oznaka za Berlin).
+
+Da li preko Orion VoIPa mogu da pozivam mobilne i fiksne telefone u Srbiji?
+
+Da, ali se ne proporučuje.
+
+Cena poziva iz Orion VoIP mreže je trenutno viša nego cena poziva unutar mreža nacionalni operatora.
+
+Tehnički, ovakvi pozivi se realizuju preko inostranstva, pa kvalitet zavisi od međunarodnih veza.
+
+Da li je Orion VoIP moguće koristiti u romingu?
+
+Tehnički da, ali se ne preporučuje.
+
+Pozivanje Orion VoIP telefonskog broja mobilni operatori tarifiraju kao i pozivanje svakog drugog standardnog broja. Ukoliko pozivate Orion VoIP broj iz inostranstva mobilni operator će vas zadužiti za roming tarifu.
+
+Kako da izbegnem kucanje PIN-a?
+
+Orion VoIP sistem podržava skraćenu prijavu tako što može da zapamti broj telefona (fiksni ili mobilni) sa koga ste pozvali Orion VoIP i poveže ga sa vašim PIN-om. Pri sledećem pozivu ne morate unositi PIN!
+
+Broj pamtite unosom koda “*6”. Ovu vezu možete obrisatu unosom koda “*7”, pa će ubuduće pozivi i sa ovog telefona zahtevati prijavu PIN kodom.
+
+Šta su komandni kodovi?
+
+Komandni kodovi su način da iskoritite napredne mogućnost Orion VoIP platforme. Kod unosite posle prijavljivanja, a pre biranja broja sagovornika.
+
+“*0” – Ponovljeni poziv “*1” – Stanje kredita “*2” – Dopuna kredita “*6” – Zapamti moj broj za skraćenu prijavu “*7” – Obriši moj broj – ukini skraćenu prijavu
+
+Kako da ponovim poziv ili obavim više razgovora?
+
+Tokom jednog poziva Orion VoIP sistema možete da obavite više razgovora. Razgovor u toku prekidate sa “##” (tonskim biranjem), posle čega možete da birate broj sledećeg sagovornika.

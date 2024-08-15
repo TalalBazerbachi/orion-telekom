@@ -1,0 +1,343 @@
+Pozovite nas: 011 4100 200
+
+Privatni korisnici
+
+Početna
+
+Optički paketi
+
+Single Net
+
+Dual TV
+
+Triple
+
+PREMIUM paketi
+
+TV
+
+Fiksni
+
+Hosting
+
+Cloud Gaming
+
+Poslovni korisnici
+
+eMobility
+
+eFiskal
+
+eFaktura
+
+Antivirus
+
+Clean Pipe
+
+Data Centar
+
+Biznis Gigant paketi
+
+Internet
+
+SD-WAN
+
+Enterprise WiFi
+
+Fiksna Telefonija
+
+Online shop
+
+Hosting
+
+Kontakt
+
+Moj Orion
+
+O nama
+
+Vesti
+
+Podrška
+
+Privatni korisnici
+
+Poslovni Korisnici
+
+Moj Orion
+
+O nama
+
+Vesti
+
+Podrška
+
+English
+
+Sorry, no slides matched your criteria.
+
+Kreiran da traje i čuva Vaše podatke!
+
+Data Centar je potreba svake kompanije
+
+Data Centar, omogućava kompanijama smeštaj i funkcionisanje njihove IT infrastrukture. Informacije i podaci moraju biti dostupni pravim osobama u pravom trenutku. Krilatica da je vreme novac odavno je zamenjena novom – Informacija je novac!
+
+Pravi izbor za bezbedno poslovanje
+
+Poslovne komunikacije predstavljaju isuviše osetljivu stvar, koja se ne poverava na brigu bilo kome. Od pravog izbora Data Centra, uveliko zavisi bezbedno, pouzdano i nesmetano poslovanje kompanije, ali i značajne finansijske uštede za svaku kompaniju.
+
+Prednosti Orion telekom DATA CENTRA
+
+Orion telekom Data Centar je dizajniran i projektovan od strane kompanije Schneider Electric, a izgrađen od strane ovlašćenog partnera Enel-PS. Projektovan da zadovolji trenutne, rastuće potrebe svih svojih korisnika, ali i da odgovori na trendove i dinamiku tehnološkog razvoja. Server sale su inovativnog dizajna sa fokusom na:
+
+Bezbednost
+
+Prvi Data Centar u ovom delu Evrope koji ispunjava najviše standarde bezbednosti zaštite podataka. Podaci se čuvaju u TIER 3 sertifikovanom i 24/7/365 nadgledanom Data Centru.
+
+Carrier Neutral
+
+Mogućnost povezivanja sa bilo kojim telekomunikacionim operatorom direktno u server sali. U Orion Data Centru je prisutna većina nacionalnih i najznačajniji međunarodni operatori. Povezivanje operatora se radi putem meet me racks, pri čemu se primenjuju preporuke za strukturno kabliranje.
+
+Modularnost
+
+Inovativan, jednostavan i jedinstven modularni sistem proširenja i unapređenja. Modularnost po principu „lego kocki“, projektovani i realizovani privodi, predstavljaju princip koji je usvojio Google.
+
+Redundantnost
+
+Maksimalna energetska i komunikaciona redundantnost i pouzdanost.
+
+Pouzdanost
+
+Za informatičku opremu i sisteme su obezbeđeni najviši standardi, koji garantuju stabilan i kontinuiran rad.
+
+Fleksibilnost
+
+Potpuna fleksibilnost u pogledu skalabilnosti, modularnosti, bezbednosti, konektivnosti, redudantnosti, nadzora i pristupa.
+
+Ekonomičnost
+
+Garantovano povećanje produktivnosti i umanjenje troškova.
+
+Tim za podršku
+
+Potpuno kvalifikovan, edukovan i u praksi potvrđen tim za podršku, na raspolaganju je 24/365, sa garantovanim stepenom i kvalitetom usluge.
+
+Objekat i fizičke karakteristike
+
+Nalazi se u industrijskoj zoni u Zemunu za maksimalnu energetsku pouzdanost i redudantnost
+
+Pažljivo birana pozicija obezbeđuje idealnu vezu sa ključnim saobraćajnicama
+
+Obezbeđeni prilazi objektu i parking za klijente
+
+Oprema se unosi kroz posebnu magacinsku pasarelu
+
+Dupli podovi, metalni, aluminijumski
+
+Pod presvučen nezapaljivom, amortizujućom antistatik oblogom
+
+Visina od poda do plafona 2,75 m
+
+Nosivost poda 1500 kg/m2
+
+2500
+
+Površina u m2 rezervisana za Data Centar
+
+36
+
+Broj RACK mesta u prvom kubu
+
+30
+
+Broj dana potrebnih da se transformiše i uveća svoje kapacitete čak 4 puta
+
+22
+
+Predviđena temperatura u server sali
+
+330
+
+Snaga agregata u kVA
+
+24
+
+Autonomija rada agregata bez intervencije u časovima
+
+Napajanje, UPS, agregati
+
+Permanentno napajanje objekta strujom, direktno sa dva nezavisna izvora
+
+Redundantna trafo stanica kapaciteta 1 MW
+
+Napajanje, agregati i UPS uređaji su IP upravljivi
+
+Potpuno uzemljenje objekta, svih metalnih površina i TK ormana
+
+Snaga UPS uređaja je max 165kW
+
+Objekat poseduje ukupno 3 agregata
+
+Snaga agregata je 330kVA
+
+Autonomija rada agregata bez intervencije je 24h
+
+Vreme uključivanja i isključivanja (stabilizacija) između 4 i 8 sekundi
+
+Obezbeđenje
+
+Objekat poseduje sve dozvole i sertifikate iz domena bezbednosti
+
+Profesionalno fizičko obezbeđenje
+
+Jednosmerno automatsko zabravljivanje ulaznih vrata
+
+Kontrola pristupa putem proximity kartica u kombinaciji sa PIN-om
+
+Daljinski nadzor kontrole ulaska putem IP, autonomni režim rada
+
+Video nadzor unutar i oko samog objekta
+
+Alarmni sistemi poslednje generacije
+
+Snimanje i čuvanje snimaka svih dešavanja u objektu
+
+Vreme uključivanja i isključivanja (stabilizacija) između 4 i 8 sekundi
+
+Zaštita od požara i poplava
+
+U slučaju seizmičkih aktivnosti ponaša se žiroskopski
+
+Objekat poseduje senzore za ranu detekciju požara
+
+Dvostruki sistem za gašenje od požara – FM 200
+
+Gašenje požara bez upotrebe vode, netoksičan
+
+Sistem za dojavu i gašenje požara gasom
+
+Objekat poseduje senzore za vlagu
+
+Objekat je hidroizolovan, bez mogućnosti prodora vlage i vode
+
+Klimatizacija
+
+Savremeni koncept sistema klimatizacije
+
+Objekat poseduje klima uređaje SCHNEIDER Uniflair
+
+Objekat poseduje redudantni klima sistem N+1
+
+Kapacitet hlađenja (btu/H) 22kw*3.41=75000 Btu x 4
+
+Radna temperatura -35/ +45°C spoljna, unutrašnja const. 22°C
+
+Predviđena temperatura u server sali, sa 43% kapaciteta klima uređaja iznosi 22°C
+
+Održavanje i testiranje agregata i klima uređaja, sprovodi se jednom nedeljno
+
+Mogućnost zakupa dela prostora
+
+Postoji mogućnost zakupa dela prostora za kolokaciju IT opreme, kao i kancelarijskog prostora za potrebe administracije opreme smeštene u Data Centru ili ispunjavanja Business Continuity Plan-a.
+
+Korisnici su u mogućnosti da ostvare zakup po unit-u, footprint-u, kaveze sa određenim brojem footprint-ova ili celog kuba sa određenim brojem footprint-ova sa posebnom klimatizacijom, protivpožarnom zaštitom…
+
+Korisnicima su na raspolaganju TK ormani prema vrsti opreme, sistemu hlađenja i razvodu napajanja. Kablovi po tipu i vrsti, takođe su na raspolaganju, a dostupni na svaki zahtev i želju korisnika.
+
+Nudimo ormane eminentnih proizvođača, sa velikim izborom polica, dodataka za vertikalni i horizontalni kablovski razvod, patch paneli, sistemi za poboljšanje hlađenja, blanking paneli, krovni nosači kablova i sl.
+
+Pozovite našu službu biznis prodaje na:
+
+011 4100 007
+
+Eurocloud Staraudit Approved Data Centar
+
+DATA CENTAR ORION TELEKOMA DOBIO POTVRDU ZA KVALITET I BEZBEDNOST!
+
+Orion Data Centar ispunjava Tier 3 nivo standarda, i sertifikovan je od strane nezavisnog evropskog sertifikacionog tela kao Eurocloud Staraudit Approved Data Centar – 3 Stars.
+
+Privatni Korisnici
+
+Optički paketi
+
+Prepaid Optički Internet
+
+HIT ADSL akcija: Ostani slobodan!
+
+PREMIUM Optički paketi
+
+Televizija
+
+Fiksna Telefonija
+
+Boosteroid Gaming platforma
+
+Hosting
+
+Poslovni Korisnici
+
+eMobility
+
+eFiskal
+
+eFaktura
+
+Antivirus
+
+Clean Pipe
+
+Data Centar
+
+Internet
+
+SD-WAN
+
+Enterprise WiFi
+
+Fiksna telefonija
+
+Online shop
+
+Hosting
+
+Biznis Gigant paketi
+
+Podrška
+
+Korisnički servis
+
+eRačun
+
+Upis u registar “Ne zovi”
+
+Online prodavnica
+
+Prodajna i uplatna mesta
+
+Uputstva
+
+Drajveri
+
+Orion telekom
+
+O nama
+
+Opšti uslovi i cenovnici
+
+Pravilnik o zaštiti ličnih podataka
+
+Parametri kvaliteta
+
+Vesti
+
+Karijera
+
+Kontakt
+
+Postani naš korisnik
+
+Postani naš prodajni partner
+
+ORION TELEKOM DOO BEOGRAD Naselje Zemun Polje Mala Pruga 8 11080 Beograd-Zemun
+
+Copyright © 2024. ORION TELEKOM DOO BEOGRAD

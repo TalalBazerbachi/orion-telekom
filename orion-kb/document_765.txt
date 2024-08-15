@@ -1,0 +1,53 @@
+2.5. The end user is obliged to, in the event of a change in his personal data, immediately enter the resulting changes into his user account. If the user does not make the necessary changes, Orion eM can temporarily prevent the use of the services. All financial and legal burdens resulting from the untimely change of personal data will be borne by the user. If the user does not inform Orion eM about the change in personal data, it will be considered that invoices and all other messages sent to the user at the registered addresses given at the time of registration of his user account have been received.
+
+2.6. The user confirms that he uses the application solely at his own risk, and irrevocably agrees that Orion eM does not give any guarantees or take responsibility for any possible damages that the user suffers when using the application and the Internet. The user releases Orion eM from any responsibility for guaranteeing the availability of the Internet, given that Orion eM has no control over it.
+
+2.7. By downloading and installing the application, the user accepts all risks that may arise from its use, and undertakes to use the content of the application exclusively for personal use and at his own risk. The user undertakes to do everything in his power to ensure that no third party comes into possession of the device on which the application is installed, and that he will not allow anyone to gain unauthorized access to his personal account on the eMobility application. If the end user and the actual user of the services are not the same person, the end user is directly responsible to Orion eM for the actions of the actual user.
+
+3. Copyright
+
+3.1. Documents, data and information published on the application can only be used for the individual needs of the user with respect for all copyright and proprietary rights as well as the rights of third parties. Documents, data and information published on the eMobility application may not be reproduced, distributed or used for commercial purposes, nor may it be used in any way that may cause damage to Orion eM or any third party.
+
+3.2. The user does not acquire any copyright or intellectual property rights to the content offered to users by Orion eM. The owner of the copyrights, trademarks and other intellectual property rights on the license, i.e. the eMobility application, is Orion eM.
+
+3.3. If the client, Partner and/or end user is enabled to use the software, i.e. the eMobility application in order to use the individual services within the Orion eMobility Service, specified in these General Terms and Conditions, these persons have the right and obligation to use the said software/application in accordance with terms of the given license. In the event that Orion eM contracts special license terms for the use of the software/platform, i.e. the eMobility platform, the special license terms will take precedence over those established in these General Terms and Conditions.
+
+3.4. Orion eM grants Partners, clients and/or end users a non-exclusive license to use the eMobility platforme/software. Any user of the eMobility Application agrees not to reverse engineer, reverse engineer, disassemble, decode or otherwise discover the source code of the eMobility platform or any related technology. The eMobility platoform may not be distributed, sold or sublicensed. The user may not transfer the obtained license to a third party.
+
+3.5. Any use that violates the terms of the license for the use of the eMobility platform is a basis for compensation for the damage caused and at the same time a basis for the denial of the given license.
+
+3.6. The user can cancel the license at any time by deleting the eMobility application from their device. The license to use the platform and the user’s right to use the services offered by the eMobility application itself are terminated automatically and without notice if the user violates any provision related to their use. Unless expressly stated otherwise, the license is automatically terminated if the user loses the right to use the services for which he was licensed.
+
+3.7. The License and the eMobility platform itself that may be used by the Licensee are provided as is, without any warranties or guarantees. Orion eM excludes, to the fullest extent permitted by law, all warranties, including warranties of non-defects, merchantability, satisfactory quality or fitness for a particular purpose.
+
+3.8. Orion eM is not responsible for any damage suffered by any user through the use of the license, eMobility platform and application and services within the same, and the user fully releases Orion eM from responsibility for any consequences arising from the user’s actions or omissions resulting from the use or misuse content of the eMobility application, as well as for any damage that may be caused to the user or any third party in connection with the use or misuse of the content of the application.
+
+4. Using the eMobility application
+
+4.1. The eMobility application allows registered users, i.e. users who have established a subscription relationship with Orion eM, the following:
+
+ccess to the instructions for using/setting up the eMobility application with consent to access and use mobile device services,
+
+use and payment of the electric vehicle charging service at Orion eM chargers within the Orion eMobility Service,
+
+using an interactive map that shows the network of Orion eM chargers within the Orion eMobility Service, as well as a display of currently available chargers,
+
+the possibility of booking a specific charger,
+
+defining and managing the code for accessing the part of the eMobility application for paying for the charging service,
+
+sending notifications about the used services to the user’s registered e-mail address and reviewing all transactions,
+
+access to all their user account data, and the history of all electric vehicle charging transactions,
+
+review and modification of personal data of registered users,
+
+display of marketing messages and notifications as well as display and storage of personalized marketing offers,
+
+the option to delete the account in case of stopping the use of the eMobility application
+
+4.2. Orion eM reserves the right to update and modify the application by changing its content without specifically notifying the user, so it will not be responsible for possible consequences resulting from such changes.
+
+5. Use of the Orion eM chargers
+
+5.1. In order to prevent damage, if there is a risk of damage or if damage has already occurred, the Partner, clients, end users (further: Users) as well as Orion eM are obliged to take all measures to prevent or limit damage that can reasonably be requested and demand from them. Orion eM is not responsible for any damage resulting from possible hidden defects, nor for damage that may occur due to the possible cessation of functioning or loss of functionality of the charger for electric vehicles.

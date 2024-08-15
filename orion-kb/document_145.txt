@@ -1,0 +1,51 @@
+11.6. U slučajevima kada krajnji korisnik ostvari pravo na povraćaj sredstava koja je uplatio radi korišćenja usluge punjenja svog električnog vozila, nekom od platnih kartica – delično ili u celosti, a bez obzira na razlog vraćanja, Orion eM je u obavezi da povraćaj ovih sredstava vrši se isključivo preko VISA, EC/MC i Maestro, Amex i Dina metoda plaćanja, što znači da će banka na zahtev Orion eM-a, obaviti povraćaj sredstava na račun korisnika navedene platne kartice.
+
+12. Raskid
+
+12.1 Pretplatnički odnos koji nastaje registracijom korisnika može prestati u svakom trenutku, a svakako prestaje ukoliko krajnji korisnik sa svog uređaja izbriše eMobility aplikaciju, usled smrti krajnjeg korisnika, usled postojanja neizmirenog dugovanja krajnjeg korisnika prema Orion eM, ukoliko krajnji korisnik čini zloupotrebe opisane u ovim Opštim uslovima, ukoliko ne ispunjava uslove ili obaveze ili na drugi način krši odredbe ovih Opštih uslova ili važećih propisa i ne postupa u skladu sa zahtevima Orion eM i iz drugih sličnih razloga.
+
+12.2. Ugovorni odnos između Orion eM i njegovih Partnera i klijenata prestaje raskidom zaključenih ugovora između ovh subjekata, sve u skladu sa uslovima predviđenim tim ugovorima.
+
+12.3. U slučaju raskida pretplatničkog odnosa i/ili zaključenog ugovora, Korisnici moraju regulisati sve obaveze prema Orion eM nastale do dana raskida.
+
+13. Završne odredbe
+
+13.1. Orion eM može u bilo kom trenutku da izmeni odredbe ovih Opštih uslova, cene usluga u okviru Orion eMobility Servisa, ponudu navedenih usluga kao i njihov sadržaj.
+
+13.2. Orion eM se obavezuje da obavesti Korisnike o svim promenama, tako što će obaveštenje objaviti na svojoj web stranici, a po potrebi i u skladu sa konkretnim okolnostima i putem elektronskog pisanog obaveštavanja ili u samoj eMobility aplikaciji.
+
+13.3. Ukoliko bilo koji korisnik nastavi da koristi usluge nakon što primi obaveštenje o nastalim izmenama, smatra se da je on saglasan sa istima.
+
+13.4. Orion eM zadržava pravo ažuriranja i modifikacije eMobility aplikacije izmenom njenog sadržaja bez posebnog obaveštavanja korisnika, tako da neće biti odgovoran za moguće posledice proizašle iz takvih promena.
+
+13.5. U slučaju da se za bilo koji deo ovih Opštih uslova ustanovi da je neodgovarajuć ili nevažeći, to neće uticati na ostale njegove odredbe koje će nastaviti da važe i dalje.
+
+13.6. Opšti uslovi predstavljaju sastavni deo ugovora koje Orion eM zaključi sa Parterima i klijentima. Istovremeno, davanje saglasnosti krajnjeg korisnika na ove Opšte uslove predstavlja neophodan preduslov za korišćenje Orion eMobility aplikacije.
+
+13.7. Odnosi između Korisnika i Orion eM regulisani su pozitivnim propisima Republike Srbije. Za sve međusobne sporove koje nije moguće rešiti dogovorom nadležan je sud u Beogradu.
+
+13.8. Ovi Opšti uslovi stupaju na snagu dana 01.08.2023. godine.
+
+General terms and conditions of Orion eMobility services
+
+1. General provisions
+
+1.1. These General Terms and Conditions of Orion eMobility Services (hereinafter: General Terms) regulate the relationship between the company ORION E MOBILITY DOO (hereinafter: Orion eM) and users of Orion eMobility Service, i.e. users of all services that are part of Orion eMobility Service.
+
+1.2. Users of the Orion eMobility Service include Orion eM Partners, with whom this company has established mutual business cooperation, as well as Orion eM clients to whom Orion eM sells chargers for electric vehicles (Orion eM chargers) for their installation at desired locations in accordance with the orders of the clients, and finally the end users themselves of the services within the mentioned Service. The relationship between Orion eM and its partners/clients is defined by the respective agreements on business and technical cooperation, the offer that is valid at the time of concluding these agreements (hereinafter: the Offer), the privacy policy that applies as well as other written agreements between Orion eM and its partners, i.e. clients, instructions and appropriate regulations that directly or indirectly refer to the services that are subject to the regulation of these General Terms and Conditions. The provisions of the General Conditions are applied if the relevant regulations, provisions of the Contract and other agreements between Orion eM and Partners/clients are not in conflict with them, and they are also applied with regard to all issues that are not regulated by other mentioned documents.
+
+1.3. Orion eMobility Services include the sale and installation of electrical charging devices of the AC and DC type (hereinafter: Orion eM chargers/chargers for electric vehicles/chargers) of various powers, as well as the assignment of a license for the purposes of using the platform/software (hereinafter: eMobility platform). which will allow end users to use chargers for electric vehicles, provide important information and through which all chargers, i.e. the network of chargers, will be visible to end users on an interactive map. Also, the eMobility platform enables end users to charge for the use of the Orion eM charger.
+
+1.4. Orion eM is the owner of the software solution, i.e. the eMobility platform, and is also authorized to assign to third parties (Partners, clients, end users) the license for the use of this platform/software, which is based on the aforementioned software solution. Orion eM is also the operator of the entire system for charging for all services within the Orion eMobility Service, i.e. the sale of Orion eM chargers, charging for the use of the eMobility platform as well as charging for the services of using the chargers themselves, i.e. charging for the service of charging electric vehicles at Orion eM chargers by end users. Orion eM can entrust the provision of certain services within the Orion eMobility service to the Partner, i.e. the client based on a mutually concluded contract.
+
+1.5. The use of electric vehicle charging services at Orion eM chargers by end users is made possible through the eMobility application, which users can download from existing online stores (Play Store for users of Android operating systems, or Apple Store for users of IOS operating systems). By downloading the application, the use of electric vehicle charging services is also enabled for roaming users, i.e. users who use the aforementioned charging services abroad at electric vehicle charging stations that, in accordance with the concluded Contract, belong to Orion eMa Partners. Using the electric vehicle charging service is also possible through RFID cards that end users can download from Orion eM Partners.
+
+1.6. The operating conditions and use of electric vehicle charging services at charging stations, when the services are used by roaming users, are subject to the legislation of the country in which these services are used.
+
+1.7. The price lists, which will be available to Partners as well as end users, determine the regular prices of using the Orion eMobility Service, individual services within the Service itself, equipment, Orion eM chargers, as well as the amount of fees in case of violation of prescribed obligations by these persons, which Orion eM has the right to charge as the manager of the Orion eMobility System and the operator of the wholesale system for charging services within the Orion eMobility System.
+
+1.8. All information about the applicable General Terms and Conditions, prices of all services, as well as contact information, are listed within the eMobility application.
+
+1.9. In the event of a change and/or revision of the General Terms and Conditions, in order to continue using the eMobility application, its users will be asked to agree to the amended General Terms and Conditions.
+
+2. Installation of the eMobility application, user registration
